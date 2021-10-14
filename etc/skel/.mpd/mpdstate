@@ -1,0 +1,507 @@
+sw_volume: 100
+audio_device_state:1:pulse audio
+audio_device_state:1:my_fifo
+state: play
+current: 476
+time: 119.990000
+random: 0
+repeat: 1
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Pink Floyed/02-Dogs - 2011 Remastered Version (1).mp3
+1:Pink Floyed/02-Dogs - 2011 Remastered Version.mp3
+2:Pink Floyed/02-Breathe (In The Air) - 2011 Remastered Version.mp3
+3:Pink Floyed/04-Time - 2011 Remastered Version.mp3
+4:Pink Floyed/05-The Great Gig In The Sky - 2011 Remastered Version.mp3
+5:Pink Floyed/06-Money - 2011 Remastered Version.mp3
+6:Pink Floyed/07-Us And Them - 2011 Remastered Version.mp3
+7:Pink Floyed/09-Brain Damage - 2011 Remastered Version.mp3
+8:Pink Floyed/05-Another Brick in the Wall, Pt. 2.mp3
+9:Pink Floyed/06-Comfortably Numb.mp3
+10:Pink Floyed/01-Hey You - 2011 Remastered Version.mp3
+11:Pink Floyed/06-Mother - 2011 Remastered Version.mp3
+12:Pink Floyed/01-Shine On You Crazy Diamond (Pts. 1-5).mp3
+13:Pink Floyed/03-Have a Cigar.mp3
+14:Pink Floyed/02-Welcome To The Machine - 2011 Remastered Version.mp3
+15:Rock/01-Feels like the First Time - Radio Edit; 2017 Remaster [Radio Edit].mp3
+16:Rock/01-Heart Turns to Stone - Radio Edit; 2017 Remaster [Radio Edit].mp3
+17:Rock/02-Can't Wait - 2017 Remaster.mp3
+18:Rock/02-Starrider - 2017 Remaster.mp3
+19:Rock/03-Cold as Ice - 2017 Remaster.mp3
+20:Rock/03-Lowdown and Dirty - 2017 Remaster.mp3
+21:Rock/04-Long, Long Way from Home - 2017 Remaster.mp3
+22:Rock/04-Soul Doctor - 2017 Remaster.mp3
+23:Rock/05-Headknocker - 2017 Remaster.mp3
+24:Rock/05-White Lie - Single Version.mp3
+25:Rock/06-Hot Blooded - Radio Edit; 2017 Remaster [Radio Edit].mp3
+26:Rock/06-Rain - Remastered.mp3
+27:Rock/07-All I Need To Know - Remastered.mp3
+28:Rock/07-Double Vision - Radio Edit; 2017 Remaster [Radio Edit].mp3
+29:Rock/08-Blue Morning, Blue Day - 2017 Remaster.mp3
+30:Rock/08-Too Late - 2017 Remaster.mp3
+31:Rock/09-Dirty White Boy - Radio Edit; 2017 Remaster [Radio Edit].mp3
+32:Rock/09-When It Comes to Love - 2017 Remaster.mp3
+33:Rock/10-Can't Slow Down - 2017 Remaster.mp3
+34:Rock/10-Head Games - 2017 Remaster.mp3
+35:Rock/11-In Pieces - 2017 Remaster.mp3
+36:Rock/11-Women - 2017 Remaster.mp3
+37:Rock/12-Fool for You Anyway - 2017 Remaster.mp3
+38:Rock/12-Urgent - Radio Edit; 2017 Remaster [Radio Edit].mp3
+39:Rock/13-Juke Box Hero - Radio Edit; 2017 Remaster [Radio Edit].mp3
+40:Rock/13-Say You Will - Acoustic; 2017 Remaster.mp3
+41:Rock/14-Save Me - 2017 Remaster.mp3
+42:Rock/14-Waiting for a Girl like You - Radio Edit; 2017 Remaster [Radio Edit].mp3
+43:Rock/15-Girl on the Moon - Live; 2017 Remaster [Remastered].mp3
+44:Rock/15-Night Life - 2017 Remaster.mp3
+45:Rock/16-Break It Up - Live; 2017 Remaster [Remastered].mp3
+46:Rock/16-Luanne - 2017 Remaster.mp3
+47:Rock/17-I Don't Want to Live Without You - 2017 Remaster.mp3
+48:Rock/17-I Want to Know What Love Is - 2017 Remaster.mp3
+49:Rock/18-Give My Life for Love - 2017 Remaster.mp3
+50:Rock/18-That Was Yesterday - 2017 Remaster.mp3
+51:Rock/19-The Flame Still Burns - 2017 Remaster.mp3
+52:Rock/19-Tooth and Nail - 2017 Remaster.mp3
+53:Rock/20-Reaction to Action - Radio Edit; 2017 Remaster [Radio Edit].mp3
+54:Rock/21-Down on Love - 2017 Remaster.mp3
+55:Rock/01-Hot Blooded.mp3
+56:Legends/05-Stay with Me.mp3
+57:Legends/01-A Whiter Shade Of Pale.mp3
+58:Legends/01-Ace of Spades.mp3
+59:Legends/03-Dream On.mp3
+60:Legends/10-Truckin' - 2013 Remaster.mp3
+61:Legends/15-Mary Jane's Last Dance.mp3
+62:Legends/01-Purple Haze.mp3
+63:Legends/03-Hey Joe.mp3
+64:Legends/06-Little Wing.mp3
+65:Legends/01-Sympathy For The Devil.mp3
+66:Legends/05-Smokin'.mp3
+67:Legends/02-Ramblin' Man.mp3
+68:Legends/02-Money For Nothing.mp3
+69:Legends/09-Brothers In Arms.mp3
+70:Legends/01-The Boys Of Summer.mp3
+71:Legends/14-He Ain't Heavy He's My Brother - 1998 Remaster.mp3
+72:Legends/03-Southern Cross - 2005 Remaster.mp3
+73:Legends/16-Nights In White Satin - Single Version - Mono Mix.mp3
+74:Legends/06-Sultans Of Swing.mp3
+75:Legends/02-Sunshine Of Your Love.mp3
+76:Legends/15-All Along the Watchtower.mp3
+77:Legends/05-Maggie May.mp3
+78:Legends/07-All Right Now.mp3
+79:Legends/01-Free Fallin'.mp3
+80:Legends/02-I Won't Back Down.mp3
+81:Legends/05-Bad Moon Rising.mp3
+82:Legends/04-Heart of Gold - 2009 Remaster.mp3
+83:Legends/01-Jumpin' Jack Flash.mp3
+84:Legends/03-Midnight Rider.mp3
+85:Legends/01-In the Midnight Hour.mp3
+86:Legends/03-Land Of Confusion - 2007 Digital Remaster.mp3
+87:Legends/01-Whole Lotta Love - 1990 Remaster.mp3
+88:Legends/04-Stairway to Heaven - 2012 Remaster.mp3
+89:Legends/01-Gimme Shelter.mp3
+90:Legends/15-Free Bird.mp3
+91:Legends/01-Highway Star - Remastered 2012.mp3
+92:Legends/05-Smoke On The Water - Remastered 2012.mp3
+93:Legends/02-Romeo And Juliet.mp3
+94:Legends/05-The Weight - Remastered.mp3
+95:Legends/08-Smile.mp3
+96:Legends/02-Paranoid.mp3
+97:Legends/07-Me and Bobby McGee.mp3
+98:Legends/04-Have You Ever Seen The Rain.mp3
+99:Legends/03-Gimme Three Steps.mp3
+100:Legends/01-Running on Empty.mp3
+101:Legends/01-My My, Hey Hey (Out Of The Blue).mp3
+102:Legends/06-Black Magic Woman.mp3
+103:Legends/03-Small Town.mp3
+104:Legends/02-Hush - 1998 Remaster.mp3
+105:Legends/02-Wonderful Tonight.mp3
+106:Legends/05-Born To Be Wild.mp3
+107:Legends/01-Start Me Up - 2009 Re-Mastered Digital Version.mp3
+108:Legends/07-Sailing To Philadelphia.mp3
+109:Legends/12-Yer Blues - Live.mp3
+110:Legends/11-We've Gotta Get Out of This Place.mp3
+111:Legends/06-Comfortably Numb - 2011 Remastered Version.mp3
+112:Legends/07-I Can See For Miles.mp3
+113:Legends/12-Heart Full of Soul.mp3
+114:Legends/08-Jessica.mp3
+115:Legends/10-November Rain.mp3
+116:Legends/01-We're Still Here.mp3
+117:Legends/01-White Room.mp3
+118:Legends/09-Who Are You.mp3
+119:Legends/02-You Don't Know How It Feels.mp3
+120:Legends/06-Fortunate Son.mp3
+121:Legends/14-Mustang Sally.mp3
+122:Legends/09-With A Little Help From My Friends.mp3
+123:00Rock/03_-_Thirty_Seconds_To_Mars_-_The_Kill__Bury_Me_.mp3
+124:00Rock/01_-_U2_-_Beautiful_Day.mp3
+125:00Rock/11_-_Nickelback_-_Rockstar.mp3
+126:00Rock/12_-_Alien_Ant_Farm_-_Smooth_Criminal.mp3
+127:00Rock/11_-_Rise_Against_-_Savior.mp3
+128:00Rock/05_-_Audioslave_-_Like_a_Stone.mp3
+129:00Rock/01_-_Foo_Fighters_-_Best_of_You.mp3
+130:00Rock/01_-_AC_DC_-_Rock_N_Roll_Train.mp3
+131:00Rock/03_-_blink-182_-_I_Miss_You.mp3
+132:00Rock/11_-_Red_Hot_Chili_Peppers_-_Under_the_Bridge.mp3
+133:00Rock/04_-_Staind_-_It_s_Been_Awhile.mp3
+134:00Rock/01_-_The_Raconteurs_-_Steady__As_She_Goes.mp3
+135:00Rock/07_-_Red_Hot_Chili_Peppers_-_Can_t_Stop.mp3
+136:00Rock/10_-_Limp_Bizkit_-_Take_A_Look_Around.mp3
+137:00Rock/05_-_Puddle_Of_Mudd_-_Blurry.mp3
+138:00Rock/08_-_Stone_Sour_-_Through_Glass.mp3
+139:00Rock/04_-_Sum_41_-_Still_Waiting.mp3
+140:00Rock/02_-_Seether_-_Fake_It.mp3
+141:00Rock/04_-_Oasis_-_Stop_Crying_Your_Heart_Out.mp3
+142:00Rock/08_-_Linkin_Park_-_In_the_End.mp3
+143:00Rock/02_-_Papa_Roach_-_Last_Resort.mp3
+144:00Rock/05_-_The_Smashing_Pumpkins_-_1979_-_Remastered_2012.mp3
+145:00Rock/13_-_Linkin_Park_-_Numb.mp3
+146:00Rock/01_-_Nirvana_-_Smells_Like_Teen_Spirit.mp3
+147:00Rock/04_-_The_Cranberries_-_Zombie.mp3
+148:00Rock/01_-_Queens_of_the_Stone_Age_-_No_One_Knows.mp3
+149:00Rock/01_-_Foo_Fighters_-_All_My_Life.mp3
+150:00Rock/04_-_Kings_of_Leon_-_Use_Somebody.mp3
+151:00Rock/02_-_Breaking_Benjamin_-_The_Diary_of_Jane_-_Single_Version.mp3
+152:00Rock/02_-_Rage_Against_The_Machine_-_Killing_In_The_Name.mp3
+153:00Rock/04_-_P.O.D._-_Youth_of_the_Nation.mp3
+154:00Rock/02_-_Nickelback_-_How_You_Remind_Me.mp3
+155:00Rock/01_-_Red_Hot_Chili_Peppers_-_Dani_California.mp3
+156:00Rock/07_-_Soundgarden_-_Black_Hole_Sun.mp3
+157:00Rock/06_-_Pearl_Jam_-_Jeremy.mp3
+158:00Rock/03_-_Radiohead_-_High_And_Dry.mp3
+159:00Rock/01_-_3_Doors_Down_-_Kryptonite.mp3
+160:00Rock/03_-_Nickelback_-_Someday.mp3
+161:00Rock/01_-_Muse_-_Uprising.mp3
+162:00Rock/04_-_Disturbed_-_Down_with_the_Sickness.mp3
+163:00Rock/03_-_Three_Days_Grace_-_I_Hate_Everything_About_You.mp3
+164:00Rock/06_-_The_Hives_-_Hate_To_Say_I_Told_You_So.mp3
+165:00Rock/06_-_Wolfmother_-_Joker_And_The_Thief.mp3
+166:Jeff  Healey Band/10-Life by the Drop.mp3
+167:Jeff  Healey Band/06-Song Of Yesterday.mp3
+168:Jeff  Healey Band/01-Shapes Of Things.mp3
+169:Jeff  Healey Band/02-Stop Breakin' Down.mp3
+170:Jeff  Healey Band/03-Highway 49.mp3
+171:Jeff  Healey Band/04-As The Years Go Passing By.mp3
+172:Jeff  Healey Band/05-I'm Ready.mp3
+173:Jeff  Healey Band/06-Evil.mp3
+174:Jeff  Healey Band/07-Stuck In The Middle With You.mp3
+175:Jeff  Healey Band/08-Angel.mp3
+176:Jeff  Healey Band/09-The Moon Is Full.mp3
+177:Jeff  Healey Band/10-Yer Blues.mp3
+178:Jeff  Healey Band/11-Communication Breakdown.mp3
+179:Jeff  Healey Band/12-Me And My Crazy Self.mp3
+180:Jeff  Healey Band/01-Cruel Little Number.mp3
+181:Jeff  Healey Band/02-Leave The Light On.mp3
+182:Jeff  Healey Band/03-Baby's Lookin' Hot.mp3
+183:Jeff  Healey Band/04-Lost In Your Eyes.mp3
+184:Jeff  Healey Band/05-House That Love Built.mp3
+185:Jeff  Healey Band/06-Evil And Here To Stay.mp3
+186:Jeff  Healey Band/07-My Kinda Lover.mp3
+187:Jeff  Healey Band/08-It Could All Get Blown Away.mp3
+188:Jeff  Healey Band/09-You're Coming Home.mp3
+189:Jeff  Healey Band/10-If You Can't Feel Anything Else.mp3
+190:Jeff  Healey Band/11-Heart Of An Angel.mp3
+191:Jeff  Healey Band/12-Dreams Of Love.mp3
+192:Jeff  Healey Band/01-Which One.mp3
+193:Jeff  Healey Band/02-Hey Hey.mp3
+194:Jeff  Healey Band/03-Love Is the Answer.mp3
+195:Jeff  Healey Band/04-My Life Story.mp3
+196:Jeff  Healey Band/05-I Tried.mp3
+197:Jeff  Healey Band/06-The Damage Is Done.mp3
+198:Jeff  Healey Band/07-Feel Better.mp3
+199:Jeff  Healey Band/08-Holding On.mp3
+200:Jeff  Healey Band/09-I Should Have Told You.mp3
+201:Jeff  Healey Band/10-Macon Georgia Blue.mp3
+202:Jeff  Healey Band/11-House Is Burning Down.mp3
+203:Jeff  Healey Band/12-Runaway Heart.mp3
+204:Jeff  Healey Band/13-Rachel's Song.mp3
+205:Jeff  Healey Band/01-I'm Torn Down.mp3
+206:Jeff  Healey Band/02-How Blue Can You Get.mp3
+207:Jeff  Healey Band/03-Sugar Sweet.mp3
+208:Jeff  Healey Band/04-Jambalaya.mp3
+209:Jeff  Healey Band/05-The Weight.mp3
+210:Jeff  Healey Band/06-Mess O' Blues.mp3
+211:Jeff  Healey Band/07-It's Only Money.mp3
+212:Jeff  Healey Band/08-Like A Hurricane.mp3
+213:Jeff  Healey Band/09-Sittin' On Top Of The World.mp3
+214:Jeff  Healey Band/10-Shake, Rattle & Roll.mp3
+215:Jeff  Healey Band/01-[Won't Be] Coming Home.mp3
+216:Jeff  Healey Band/10-Highway Song.mp3
+217:Jeff  Healey Band/09-King's Highway.mp3
+218:Jeff  Healey Band/02-Mud Flap Mama - feat. Slash.mp3
+219:Jeff  Healey Band/01-Gonna Hurt Like Hell (feat. Kenny Wayne Shepherd).mp3
+220:ACDC-BlackIce/01 - AC_DC - Rock N Roll Train.mp3
+221:ACDC-BlackIce/05 - AC_DC - Let Me Put My Love Into You.mp3
+222:ACDC-BlackIce/01 - AC_DC - Rock N Roll Train.mp3
+223:ACDC-BlackIce/02 - AC_DC - Skies on Fire.mp3
+224:ACDC-BlackIce/03 - AC_DC - Big Jack.mp3
+225:ACDC-BlackIce/04 - AC_DC - Anything Goes.mp3
+226:ACDC-BlackIce/05 - AC_DC - War Machine.mp3
+227:ACDC-BlackIce/06 - AC_DC - Smash N Grab.mp3
+228:ACDC-BlackIce/07 - AC_DC - Spoilin' for a Fight.mp3
+229:ACDC-BlackIce/08 - AC_DC - Wheels.mp3
+230:ACDC-BlackIce/09 - AC_DC - Decibel.mp3
+231:ACDC-BlackIce/10 - AC_DC - Stormy May Day.mp3
+232:ACDC-BlackIce/11 - AC_DC - She Likes Rock N Roll.mp3
+233:ACDC-BlackIce/12 - AC_DC - Money Made.mp3
+234:ACDC-BlackIce/13 - AC_DC - Rock N Roll Dream.mp3
+235:ACDC-BlackIce/14 - AC_DC - Rocking All the Way.mp3
+236:ACDC-BlackIce/15 - AC_DC - Black Ice.mp3
+237:ACDC-1/01 - AC_DC - Hells Bells.mp3
+238:ACDC-1/02 - AC_DC - Shoot to Thrill.mp3
+239:ACDC-1/04 - AC_DC - Givin the Dog a Bone.mp3
+240:ACDC-1/05 - AC_DC - Let Me Put My Love Into You.mp3
+241:ACDC-1/06 - AC_DC - Back In Black.mp3
+242:ACDC-1/07 - AC_DC - You Shook Me All Night Long.mp3
+243:ACDC-1/08 - AC_DC - Have a Drink on Me.mp3
+244:ACDC-1/09 - AC_DC - Shake a Leg.mp3
+245:ACDC-1/01 - AC_DC - Hard as a Rock.mp3
+246:ACDC-1/02 - AC_DC - Cover You in Oil.mp3
+247:ACDC-1/03 - AC_DC - The Furor.mp3
+248:ACDC-1/04 - AC_DC - Boogie Man.mp3
+249:ACDC-1/05 - AC_DC - The Honey Roll.mp3
+250:ACDC-1/06 - AC_DC - Burnin' Alive.mp3
+251:ACDC-1/07 - AC_DC - Hail Caesar.mp3
+252:ACDC-1/08 - AC_DC - Love Bomb.mp3
+253:ACDC-1/09 - AC_DC - Caught with Your Pants Down.mp3
+254:ACDC-1/10 - AC_DC - Whiskey on the Rocks.mp3
+255:ACDC-1/11 - AC_DC - Ballbreaker.mp3
+256:ACDC-1/01 - AC_DC - Heatseeker.mp3
+257:ACDC-1/02 - AC_DC - That's the Way I Wanna Rock 'N' Roll.mp3
+258:ACDC-1/03 - AC_DC - Meanstreak.mp3
+259:ACDC-1/04 - AC_DC - Go Zone.mp3
+260:ACDC-1/05 - AC_DC - Kissin' Dynamite.mp3
+261:ACDC-1/06 - AC_DC - Nick of Time.mp3
+262:ACDC-1/07 - AC_DC - Some Sin for Nuthin'.mp3
+263:ACDC-1/08 - AC_DC - Ruff Stuff.mp3
+264:ACDC-1/09 - AC_DC - Two's Up.mp3
+265:ACDC-1/10 - AC_DC - This Means War.mp3
+266:ACDC-1/01 - AC_DC - Dirty Deeds Done Dirt Cheap.mp3
+267:ACDC-1/02 - AC_DC - Love at First Feel.mp3
+268:ACDC-1/03 - AC_DC - Big Balls.mp3
+269:ACDC-1/04 - AC_DC - Rocker.mp3
+270:Mighty Oaks/01 - Mighty Oaks - Brother.mp3
+271:Mighty Oaks/02 - Mighty Oaks - Seven Days.mp3
+272:Mighty Oaks/03 - Mighty Oaks - Back To You.mp3
+273:Mighty Oaks/04 - Mighty Oaks - When I Dream, I See.mp3
+274:Mighty Oaks/05 - Mighty Oaks - Just One Day.mp3
+275:Mighty Oaks/06 - Mighty Oaks - Shells.mp3
+276:Mighty Oaks/07 - Mighty Oaks - You Saved My Soul.mp3
+277:Mighty Oaks/08 - Mighty Oaks - The Golden Road.mp3
+278:Mighty Oaks/09 - Mighty Oaks - Captain's Hill.mp3
+279:Mighty Oaks/10 - Mighty Oaks - Courtyard In Berlin.mp3
+280:Mighty Oaks/11 - Mighty Oaks - Horse.mp3
+281:Mighty Oaks/12 - Mighty Oaks - Howl.mp3
+282:Staind/01 - Staind - Price to Play.mp3
+283:Staind/02 - Staind - How About You.mp3
+284:Staind/03 - Staind - So Far Away.mp3
+285:Staind/04 - Staind - Yesterday.mp3
+286:Staind/05 - Staind - Fray.mp3
+287:Staind/7 - Staind - Fill Me Up.mp3
+288:Staind/8 - Staind - Layne.mp3
+289:Staind/9 - Staind - Falling Down.mp3
+290:Staind/01 - Staind - Open Your Eyes.mp3
+291:Staind/02 - Staind - Pressure.mp3
+292:Staind/03 - Staind - Fade.mp3
+293:Staind/04 - Staind - It's Been Awhile.mp3
+294:Staind/05 - Staind - Change.mp3
+295:Staind/06 - Staind - Can't Believe.mp3
+296:Staind/07 - Staind - Epiphany.mp3
+297:Staind/08 - Staind - Suffer.mp3
+298:Staind/09 - Staind - Warm Safe Place.mp3
+299:Staind/10 - Staind - For You.mp3
+300:Staind/11 - Staind - Outside.mp3
+301:Staind/12 - Staind - Waste.mp3
+302:Staind/13 - Staind - Take It.mp3
+303:Staind/01 - Staind - Run Away.mp3
+304:Staind/02 - Staind - Right Here.mp3
+305:Staind/03 - Staind - Paper Jesus.mp3
+306:Staind/04 - Staind - Schizophrenic Conversations.mp3
+307:Staind/05 - Staind - Falling.mp3
+308:Staind/06 - Staind - Cross to Bear.mp3
+309:Staind/07 - Staind - Devil.mp3
+310:Staind/08 - Staind - Please.mp3
+311:Staind/09 - Staind - Everything Changes.mp3
+312:Staind/10 - Staind - Take This.mp3
+313:Staind/11 - Staind - King of All Excuses.mp3
+314:Staind/12 - Staind - Reply.mp3
+315:Staind/01 - Staind - Eyes Wide Open.mp3
+316:Staind/02 - Staind - Not Again.mp3
+317:Staind/03 - Staind - Failing.mp3
+318:Staind/04 - Staind - Wannabe.mp3
+319:Staind/05 - Staind - Throw It All Away.mp3
+320:Staind/06 - Staind - Take a Breath.mp3
+321:Staind/07 - Staind - The Bottom.mp3
+322:Staind/08 - Staind - Now.mp3
+323:Staind/09 - Staind - Paper Wings.mp3
+324:Staind/10 - Staind - Something to Remind You.mp3
+325:Rock/01-Feels like the First Time - Radio Edit; 2017 Remaster [Radio Edit].mp3
+326:Rock/01-Heart Turns to Stone - Radio Edit; 2017 Remaster [Radio Edit].mp3
+327:Rock/02-Can't Wait - 2017 Remaster.mp3
+328:Rock/02-Starrider - 2017 Remaster.mp3
+329:Rock/03-Cold as Ice - 2017 Remaster.mp3
+330:Rock/03-Lowdown and Dirty - 2017 Remaster.mp3
+331:Rock/04-Long, Long Way from Home - 2017 Remaster.mp3
+332:Rock/04-Soul Doctor - 2017 Remaster.mp3
+333:Rock/05-Headknocker - 2017 Remaster.mp3
+334:Rock/05-White Lie - Single Version.mp3
+335:Rock/06-Hot Blooded - Radio Edit; 2017 Remaster [Radio Edit].mp3
+336:Rock/06-Rain - Remastered.mp3
+337:Rock/07-All I Need To Know - Remastered.mp3
+338:Rock/07-Double Vision - Radio Edit; 2017 Remaster [Radio Edit].mp3
+339:Rock/08-Blue Morning, Blue Day - 2017 Remaster.mp3
+340:Rock/08-Too Late - 2017 Remaster.mp3
+341:Rock/09-Dirty White Boy - Radio Edit; 2017 Remaster [Radio Edit].mp3
+342:Rock/09-When It Comes to Love - 2017 Remaster.mp3
+343:Rock/10-Can't Slow Down - 2017 Remaster.mp3
+344:Rock/10-Head Games - 2017 Remaster.mp3
+345:Rock/11-In Pieces - 2017 Remaster.mp3
+346:Rock/11-Women - 2017 Remaster.mp3
+347:Rock/12-Fool for You Anyway - 2017 Remaster.mp3
+348:Rock/12-Urgent - Radio Edit; 2017 Remaster [Radio Edit].mp3
+349:Rock/13-Juke Box Hero - Radio Edit; 2017 Remaster [Radio Edit].mp3
+350:Rock/13-Say You Will - Acoustic; 2017 Remaster.mp3
+351:Rock/14-Save Me - 2017 Remaster.mp3
+352:Rock/14-Waiting for a Girl like You - Radio Edit; 2017 Remaster [Radio Edit].mp3
+353:Rock/15-Girl on the Moon - Live; 2017 Remaster [Remastered].mp3
+354:Rock/15-Night Life - 2017 Remaster.mp3
+355:Rock/16-Break It Up - Live; 2017 Remaster [Remastered].mp3
+356:Rock/16-Luanne - 2017 Remaster.mp3
+357:Rock/17-I Don't Want to Live Without You - 2017 Remaster.mp3
+358:Rock/17-I Want to Know What Love Is - 2017 Remaster.mp3
+359:Rock/18-Give My Life for Love - 2017 Remaster.mp3
+360:Rock/18-That Was Yesterday - 2017 Remaster.mp3
+361:Rock/19-The Flame Still Burns - 2017 Remaster.mp3
+362:Rock/19-Tooth and Nail - 2017 Remaster.mp3
+363:Rock/20-Reaction to Action - Radio Edit; 2017 Remaster [Radio Edit].mp3
+364:Rock/21-Down on Love - 2017 Remaster.mp3
+365:Rock/01-Hot Blooded.mp3
+366:ACDC-1/01 - AC_DC - Hells Bells.mp3
+367:ACDC-1/02 - AC_DC - Shoot to Thrill.mp3
+368:ACDC-1/04 - AC_DC - Givin the Dog a Bone.mp3
+369:ACDC-1/05 - AC_DC - Let Me Put My Love Into You.mp3
+370:ACDC-1/06 - AC_DC - Back In Black.mp3
+371:ACDC-1/07 - AC_DC - You Shook Me All Night Long.mp3
+372:ACDC-1/08 - AC_DC - Have a Drink on Me.mp3
+373:ACDC-1/09 - AC_DC - Shake a Leg.mp3
+374:ACDC-1/01 - AC_DC - Hard as a Rock.mp3
+375:ACDC-1/02 - AC_DC - Cover You in Oil.mp3
+376:ACDC-1/03 - AC_DC - The Furor.mp3
+377:ACDC-1/04 - AC_DC - Boogie Man.mp3
+378:ACDC-1/05 - AC_DC - The Honey Roll.mp3
+379:ACDC-1/06 - AC_DC - Burnin' Alive.mp3
+380:ACDC-1/07 - AC_DC - Hail Caesar.mp3
+381:ACDC-1/08 - AC_DC - Love Bomb.mp3
+382:ACDC-1/09 - AC_DC - Caught with Your Pants Down.mp3
+383:ACDC-1/10 - AC_DC - Whiskey on the Rocks.mp3
+384:ACDC-1/11 - AC_DC - Ballbreaker.mp3
+385:ACDC-1/01 - AC_DC - Heatseeker.mp3
+386:ACDC-1/02 - AC_DC - That's the Way I Wanna Rock 'N' Roll.mp3
+387:ACDC-1/03 - AC_DC - Meanstreak.mp3
+388:ACDC-1/04 - AC_DC - Go Zone.mp3
+389:ACDC-1/05 - AC_DC - Kissin' Dynamite.mp3
+390:ACDC-1/06 - AC_DC - Nick of Time.mp3
+391:ACDC-1/07 - AC_DC - Some Sin for Nuthin'.mp3
+392:ACDC-1/08 - AC_DC - Ruff Stuff.mp3
+393:ACDC-1/09 - AC_DC - Two's Up.mp3
+394:ACDC-1/10 - AC_DC - This Means War.mp3
+395:ACDC-1/01 - AC_DC - Dirty Deeds Done Dirt Cheap.mp3
+396:ACDC-1/02 - AC_DC - Love at First Feel.mp3
+397:ACDC-1/03 - AC_DC - Big Balls.mp3
+398:ACDC-1/04 - AC_DC - Rocker.mp3
+399:ACDC-BlackIce/05 - AC_DC - Let Me Put My Love Into You.mp3
+400:ACDC-BlackIce/01 - AC_DC - Rock N Roll Train.mp3
+401:ACDC-BlackIce/02 - AC_DC - Skies on Fire.mp3
+402:ACDC-BlackIce/03 - AC_DC - Big Jack.mp3
+403:ACDC-BlackIce/04 - AC_DC - Anything Goes.mp3
+404:ACDC-BlackIce/05 - AC_DC - War Machine.mp3
+405:ACDC-BlackIce/06 - AC_DC - Smash N Grab.mp3
+406:ACDC-BlackIce/07 - AC_DC - Spoilin' for a Fight.mp3
+407:ACDC-BlackIce/08 - AC_DC - Wheels.mp3
+408:ACDC-BlackIce/09 - AC_DC - Decibel.mp3
+409:ACDC-BlackIce/10 - AC_DC - Stormy May Day.mp3
+410:ACDC-BlackIce/11 - AC_DC - She Likes Rock N Roll.mp3
+411:ACDC-BlackIce/12 - AC_DC - Money Made.mp3
+412:ACDC-BlackIce/13 - AC_DC - Rock N Roll Dream.mp3
+413:ACDC-BlackIce/14 - AC_DC - Rocking All the Way.mp3
+414:ACDC-BlackIce/15 - AC_DC - Black Ice.mp3
+415:ACDC-BlackIce/05 - AC_DC - Let Me Put My Love Into You.mp3
+416:ACDC-BlackIce/01 - AC_DC - Rock N Roll Train.mp3
+417:ACDC-BlackIce/02 - AC_DC - Skies on Fire.mp3
+418:ACDC-BlackIce/03 - AC_DC - Big Jack.mp3
+419:ACDC-BlackIce/04 - AC_DC - Anything Goes.mp3
+420:ACDC-BlackIce/05 - AC_DC - War Machine.mp3
+421:ACDC-BlackIce/06 - AC_DC - Smash N Grab.mp3
+422:ACDC-BlackIce/07 - AC_DC - Spoilin' for a Fight.mp3
+423:ACDC-BlackIce/08 - AC_DC - Wheels.mp3
+424:ACDC-BlackIce/09 - AC_DC - Decibel.mp3
+425:ACDC-BlackIce/10 - AC_DC - Stormy May Day.mp3
+426:ACDC-BlackIce/11 - AC_DC - She Likes Rock N Roll.mp3
+427:ACDC-BlackIce/12 - AC_DC - Money Made.mp3
+428:ACDC-BlackIce/13 - AC_DC - Rock N Roll Dream.mp3
+429:ACDC-BlackIce/14 - AC_DC - Rocking All the Way.mp3
+430:ACDC-BlackIce/15 - AC_DC - Black Ice.mp3
+431:ACDC-BlackIce/05 - AC_DC - Let Me Put My Love Into You.mp3
+432:ACDC-BlackIce/01 - AC_DC - Rock N Roll Train.mp3
+433:ACDC-BlackIce/02 - AC_DC - Skies on Fire.mp3
+434:ACDC-BlackIce/03 - AC_DC - Big Jack.mp3
+435:ACDC-BlackIce/04 - AC_DC - Anything Goes.mp3
+436:ACDC-BlackIce/05 - AC_DC - War Machine.mp3
+437:ACDC-BlackIce/06 - AC_DC - Smash N Grab.mp3
+438:ACDC-BlackIce/07 - AC_DC - Spoilin' for a Fight.mp3
+439:ACDC-BlackIce/08 - AC_DC - Wheels.mp3
+440:ACDC-BlackIce/09 - AC_DC - Decibel.mp3
+441:ACDC-BlackIce/10 - AC_DC - Stormy May Day.mp3
+442:ACDC-BlackIce/11 - AC_DC - She Likes Rock N Roll.mp3
+443:ACDC-BlackIce/12 - AC_DC - Money Made.mp3
+444:ACDC-BlackIce/13 - AC_DC - Rock N Roll Dream.mp3
+445:ACDC-BlackIce/14 - AC_DC - Rocking All the Way.mp3
+446:ACDC-BlackIce/15 - AC_DC - Black Ice.mp3
+447:Summerhits/04 - Eric Clapton - Sunshine of Your Love - Live at Royal Albert Hall, London, England, UK, 1990 - 1991.mp3
+448:Summerhits/01 - Steve Winwood - While You See A Chance.mp3
+449:Summerhits/01 - AC_DC - Hells Bells.mp3
+450:Summerhits/02 - AC_DC - Shoot to Thrill.mp3
+451:Summerhits/03 - AC_DC - What Do You Do for Money Honey.mp3
+452:Summerhits/02 - Klaus Doldinger's Passport - Inner City Blues.mp3
+453:Summerhits/06 - Red Hot Chili Peppers - Californication.mp3
+454:Summerhits/03 - Tracy Chapman - Freedom Now.mp3
+455:Summerhits/06 - Tracy Chapman - Subcity.mp3
+456:Summerhits/01 - Nickelback - Something in Your Mouth.mp3
+457:Summerhits/06 - Nickelback - Just to Get High.mp3
+458:Summerhits/07 - Nickelback - Never Gonna Be Alone.mp3
+459:Summerhits/03 - Tommy Emmanuel - Determination.mp3
+460:Summerhits/04 - Gerry Rafferty - Night Owl.mp3
+461:Summerhits/06 - Gerry Rafferty - The Royal Mile.mp3
+462:Summerhits/01 - Nickelback - Feed the Machine.mp3
+463:Summerhits/03 - Nickelback - Song On Fire.mp3
+464:Summerhits/02 - AC_DC - This House Is on Fire.mp3
+465:Summerhits/05 - AC_DC - Landslide.mp3
+466:Summerhits/02 - Steve Miller Band - Fly Like An Eagle.mp3
+467:Summerhits/08 - Eric Clapton - Bad Love - 2015 Remaster.mp3
+468:Summerhits/01 - Tracy Chapman - Telling Stories - 2015 Remaster.mp3
+469:Summerhits/03 - Tracy Chapman - Change - 2015 Remaster.mp3
+470:Summerhits/02 - Saga - Cat Walk.mp3
+471:Summerhits/09 - Saga - The Pitchman.mp3
+472:Summerhits/02 - AC_DC - Highway to Hell.mp3
+473:Summerhits/02 - AC_DC - Girls Got Rhythm.mp3
+474:Summerhits/01 - AC_DC - Riff Raff - Live at the Apollo Theatre, Glasgow, Scotland - April 1978.mp3
+475:Summerhits/01 - Tommy Emmanuel - Only Elliot.mp3
+476:Summerhits/06 - John Lee Hooker - The Healer.mp3
+477:Summerhits/04 - Status Quo - Rain - Live.mp3
+478:Summerhits/04 - Manfred Mann's Earth Band - Davy's on the Road Again - Live.mp3
+479:Summerhits/07 - Johnny Winter - Jumpin' Jack Flash - Live.mp3
+480:Summerhits/01 - Fleetwood Mac - Second Hand News - 2004 Remaster.mp3
+481:Summerhits/11 - Fleetwood Mac - Gold Dust Woman - 2004 Remaster.mp3
+482:Summerhits/06 - Whitesnake - Here I Go Again - 2011 Remaster.mp3
+483:Summerhits/01 - Lynyrd Skynyrd - Sweet Home Alabama.mp3
+484:Summerhits/03 - Eric Clapton - Lay Down Sally.mp3
+485:Summerhits/02 - Peter Gabriel - Sledgehammer - Remastered.mp3
+486:Summerhits/01 - AC_DC - Stiff Upper Lip.mp3
+487:Summerhits/05 - AC_DC - Safe in New York City.mp3
+488:Summerhits/06 - AC_DC - Can't Stand Still.mp3
+489:Summerhits/01 - Bruce Hornsby - The Way It Is - Remastered.mp3
+490:Summerhits/02 - Bruce Hornsby - The Valley Road - Remastered.mp3
+491:Summerhits/04 - AC_DC - The Razors Edge.mp3
+playlist_end

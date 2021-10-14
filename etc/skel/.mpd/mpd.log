@@ -1,0 +1,1003 @@
+Oct 07 14:49 : state_file: Unrecognized line in state file: ## Copyright (C) 2020-2021 Aditya Shakya <adi1090x@gmail.com>
+Oct 07 14:49 : state_file: Unrecognized line in state file: ## Everyone is permitted to copy and distribute copies of this file under GNU-GPL3
+Oct 07 14:49 : state_file: Unrecognized line in state file:
+Oct 07 14:49 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 07 14:54 : player: played "NEFFEX - Grateful [Copyright Free].mp3"
+Oct 07 14:55 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 07 15:29 : player: played "NEFFEX - Grateful [Copyright Free].mp3"
+Oct 07 15:30 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 07 15:33 : player: played "NEFFEX - Grateful [Copyright Free].mp3"
+Oct 07 15:34 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 07 15:41 : player: played "NEFFEX - Grateful [Copyright Free].mp3"
+Oct 07 15:41 : update: added 00Rock/06_-_Pearl_Jam_-_Jeremy.mp3
+Oct 07 15:41 : update: added 00Rock/08_-_Linkin_Park_-_In_the_End.mp3
+Oct 07 15:41 : update: added 00Rock/04_-_Oasis_-_Stop_Crying_Your_Heart_Out.mp3
+Oct 07 15:41 : update: added 00Rock/02_-_Breaking_Benjamin_-_The_Diary_of_Jane_-_Single_Version.mp3
+Oct 07 15:41 : update: added 00Rock/11_-_Red_Hot_Chili_Peppers_-_Under_the_Bridge.mp3
+Oct 07 15:41 : update: added 00Rock/01_-_The_Raconteurs_-_Steady__As_She_Goes.mp3
+Oct 07 15:41 : update: added 00Rock/01_-_Muse_-_Uprising.mp3
+Oct 07 15:41 : update: added 00Rock/01_-_3_Doors_Down_-_Kryptonite.mp3
+Oct 07 15:41 : update: added 00Rock/12_-_Alien_Ant_Farm_-_Smooth_Criminal.mp3
+Oct 07 15:41 : update: added 00Rock/03_-_Nickelback_-_Someday.mp3
+Oct 07 15:41 : update: added 00Rock/03_-_blink-182_-_I_Miss_You.mp3
+Oct 07 15:41 : update: added 00Rock/04_-_The_Cranberries_-_Zombie.mp3
+Oct 07 15:41 : update: added 00Rock/05_-_Audioslave_-_Like_a_Stone.mp3
+Oct 07 15:41 : update: added 00Rock/11_-_Nickelback_-_Rockstar.mp3
+Oct 07 15:41 : update: added 00Rock/08_-_Stone_Sour_-_Through_Glass.mp3
+Oct 07 15:41 : update: added 00Rock/11_-_Rise_Against_-_Savior.mp3
+Oct 07 15:41 : update: added 00Rock/01_-_Queens_of_the_Stone_Age_-_No_One_Knows.mp3
+Oct 07 15:41 : update: added 00Rock/01_-_U2_-_Beautiful_Day.mp3
+Oct 07 15:41 : update: added 00Rock/01_-_Red_Hot_Chili_Peppers_-_Dani_California.mp3
+Oct 07 15:41 : update: added 00Rock/04_-_Kings_of_Leon_-_Use_Somebody.mp3
+Oct 07 15:41 : update: added 00Rock/03_-_Thirty_Seconds_To_Mars_-_The_Kill__Bury_Me_.mp3
+Oct 07 15:41 : update: added 00Rock/07_-_Red_Hot_Chili_Peppers_-_Can_t_Stop.mp3
+Oct 07 15:41 : update: added 00Rock/01_-_Foo_Fighters_-_All_My_Life.mp3
+Oct 07 15:41 : update: added 00Rock/02_-_Seether_-_Fake_It.mp3
+Oct 07 15:41 : update: added 00Rock/04_-_Staind_-_It_s_Been_Awhile.mp3
+Oct 07 15:41 : update: added 00Rock/01_-_AC_DC_-_Rock_N_Roll_Train.mp3
+Oct 07 15:41 : update: added 00Rock/02_-_Rage_Against_The_Machine_-_Killing_In_The_Name.mp3
+Oct 07 15:41 : update: added 00Rock/03_-_Radiohead_-_High_And_Dry.mp3
+Oct 07 15:41 : update: added 00Rock/02_-_Papa_Roach_-_Last_Resort.mp3
+Oct 07 15:41 : update: added 00Rock/04_-_Disturbed_-_Down_with_the_Sickness.mp3
+Oct 07 15:41 : update: added 00Rock/06_-_Wolfmother_-_Joker_And_The_Thief.mp3
+Oct 07 15:41 : update: added 00Rock/13_-_Linkin_Park_-_Numb.mp3
+Oct 07 15:41 : update: added 00Rock/01_-_Nirvana_-_Smells_Like_Teen_Spirit.mp3
+Oct 07 15:41 : update: added 00Rock/04_-_P.O.D._-_Youth_of_the_Nation.mp3
+Oct 07 15:41 : update: added 00Rock/05_-_Puddle_Of_Mudd_-_Blurry.mp3
+Oct 07 15:41 : update: added 00Rock/01_-_Foo_Fighters_-_Best_of_You.mp3
+Oct 07 15:41 : update: added 00Rock/04_-_Sum_41_-_Still_Waiting.mp3
+Oct 07 15:41 : update: added 00Rock/05_-_The_Smashing_Pumpkins_-_1979_-_Remastered_2012.mp3
+Oct 07 15:41 : update: added 00Rock/10_-_Limp_Bizkit_-_Take_A_Look_Around.mp3
+Oct 07 15:41 : update: added 00Rock/02_-_Nickelback_-_How_You_Remind_Me.mp3
+Oct 07 15:41 : update: added 00Rock/03_-_Three_Days_Grace_-_I_Hate_Everything_About_You.mp3
+Oct 07 15:41 : update: added 00Rock/06_-_The_Hives_-_Hate_To_Say_I_Told_You_So.mp3
+Oct 07 15:41 : update: added 00Rock/07_-_Soundgarden_-_Black_Hole_Sun.mp3
+Oct 07 15:41 : update: added Blue Ballads/02-What's the Matter with You.mp3
+Oct 07 15:41 : update: added Blue Ballads/12-We're Gonna Make It.mp3
+Oct 07 15:41 : update: added Blue Ballads/08-Take Me Home.mp3
+Oct 07 15:41 : update: added Blue Ballads/01-Five Dollars.mp3
+Oct 07 15:41 : update: added Blue Ballads/10-Nearer to You.mp3
+Oct 07 15:41 : update: added Blue Ballads/01-Seems I’m Never Tired Lovin’ You.mp3
+Oct 07 15:41 : update: added Blue Ballads/06-Beautiful Stranger.mp3
+Oct 07 15:41 : update: added Blue Ballads/03-Take It All.mp3
+Oct 07 15:41 : update: added Blue Ballads/01-She's A Self Made Man.mp3
+Oct 07 15:41 : update: added Blue Ballads/01-Chocolate Samurai.mp3
+Oct 07 15:41 : update: added Jeff  Healey Band/02-Hey Hey.mp3
+Oct 07 15:41 : update: added Jeff  Healey Band/02-Stop Breakin' Down.mp3
+Oct 07 15:41 : update: added Jeff  Healey Band/01-I'm Torn Down.mp3
+Oct 07 15:41 : update: added Jeff  Healey Band/11-House Is Burning Down.mp3
+Oct 07 15:41 : update: added Jeff  Healey Band/06-Song Of Yesterday.mp3
+Oct 07 15:41 : update: added Jeff  Healey Band/07-It's Only Money.mp3
+Oct 07 15:41 : update: added Jeff  Healey Band/12-Me And My Crazy Self.mp3
+Oct 07 15:41 : update: added Jeff  Healey Band/02-How Blue Can You Get.mp3
+Oct 07 15:41 : update: added Jeff  Healey Band/06-Evil And Here To Stay.mp3
+Oct 07 15:41 : update: added Jeff  Healey Band/09-King's Highway.mp3
+Oct 07 15:41 : update: added Jeff  Healey Band/10-Life by the Drop.mp3
+Oct 07 15:41 : update: added Jeff  Healey Band/03-Sugar Sweet.mp3
+Oct 07 15:41 : update: added Jeff  Healey Band/03-Highway 49.mp3
+Oct 07 15:41 : update: added Jeff  Healey Band/02-Leave The Light On.mp3
+Oct 07 15:41 : update: added Jeff  Healey Band/08-Holding On.mp3
+Oct 07 15:41 : update: added Jeff  Healey Band/10-If You Can't Feel Anything Else.mp3
+Oct 07 15:41 : update: added Jeff  Healey Band/03-Baby's Lookin' Hot.mp3
+Oct 07 15:41 : update: added Jeff  Healey Band/05-I'm Ready.mp3
+Oct 07 15:41 : update: added Jeff  Healey Band/10-Shake, Rattle & Roll.mp3
+Oct 07 15:41 : update: added Jeff  Healey Band/04-My Life Story.mp3
+Oct 07 15:41 : update: added Jeff  Healey Band/01-Gonna Hurt Like Hell (feat. Kenny Wayne Shepherd).mp3
+Oct 07 15:41 : update: added Jeff  Healey Band/08-Angel.mp3
+Oct 07 15:41 : update: added Jeff  Healey Band/09-I Should Have Told You.mp3
+Oct 07 15:41 : update: added Jeff  Healey Band/11-Communication Breakdown.mp3
+Oct 07 15:41 : update: added Jeff  Healey Band/05-The Weight.mp3
+Oct 07 15:41 : update: added Jeff  Healey Band/13-Rachel's Song.mp3
+Oct 07 15:41 : update: added Jeff  Healey Band/09-You're Coming Home.mp3
+Oct 07 15:41 : update: added Jeff  Healey Band/09-Sittin' On Top Of The World.mp3
+Oct 07 15:41 : update: added Jeff  Healey Band/01-[Won't Be] Coming Home.mp3
+Oct 07 15:41 : update: added Jeff  Healey Band/06-Mess O' Blues.mp3
+Oct 07 15:41 : update: added Jeff  Healey Band/08-It Could All Get Blown Away.mp3
+Oct 07 15:41 : update: added Jeff  Healey Band/08-Like A Hurricane.mp3
+Oct 07 15:41 : update: added Jeff  Healey Band/01-Which One.mp3
+Oct 07 15:41 : update: added Jeff  Healey Band/04-Jambalaya.mp3
+Oct 07 15:41 : update: added Jeff  Healey Band/07-Feel Better.mp3
+Oct 07 15:41 : update: added Jeff  Healey Band/09-The Moon Is Full.mp3
+Oct 07 15:41 : update: added Jeff  Healey Band/01-Cruel Little Number.mp3
+Oct 07 15:41 : update: added Jeff  Healey Band/05-I Tried.mp3
+Oct 07 15:41 : update: added Jeff  Healey Band/10-Highway Song.mp3
+Oct 07 15:41 : update: added Jeff  Healey Band/10-Macon Georgia Blue.mp3
+Oct 07 15:41 : update: added Jeff  Healey Band/04-As The Years Go Passing By.mp3
+Oct 07 15:41 : update: added Jeff  Healey Band/12-Dreams Of Love.mp3
+Oct 07 15:41 : update: added Jeff  Healey Band/03-Love Is the Answer.mp3
+Oct 07 15:41 : update: added Jeff  Healey Band/02-Mud Flap Mama - feat. Slash.mp3
+Oct 07 15:41 : update: added Jeff  Healey Band/10-Yer Blues.mp3
+Oct 07 15:41 : update: added Jeff  Healey Band/05-House That Love Built.mp3
+Oct 07 15:41 : update: added Jeff  Healey Band/12-Runaway Heart.mp3
+Oct 07 15:41 : update: added Jeff  Healey Band/06-Evil.mp3
+Oct 07 15:41 : update: added Jeff  Healey Band/04-Lost In Your Eyes.mp3
+Oct 07 15:41 : update: added Jeff  Healey Band/07-Stuck In The Middle With You.mp3
+Oct 07 15:41 : update: added Jeff  Healey Band/06-The Damage Is Done.mp3
+Oct 07 15:41 : update: added Jeff  Healey Band/07-My Kinda Lover.mp3
+Oct 07 15:41 : update: added Jeff  Healey Band/01-Shapes Of Things.mp3
+Oct 07 15:41 : update: added Jeff  Healey Band/11-Heart Of An Angel.mp3
+Oct 07 15:41 : update: added Legends/07-I Can See For Miles.mp3
+Oct 07 15:41 : update: added Legends/01-A Whiter Shade Of Pale.mp3
+Oct 07 15:41 : update: added Legends/06-Comfortably Numb - 2011 Remastered Version.mp3
+Oct 07 15:41 : update: added Legends/06-Little Wing.mp3
+Oct 07 15:41 : update: added Legends/03-Dream On.mp3
+Oct 07 15:41 : update: added Legends/01-Whole Lotta Love - 1990 Remaster.mp3
+Oct 07 15:41 : update: added Legends/01-Jumpin' Jack Flash.mp3
+Oct 07 15:41 : update: added Legends/09-With A Little Help From My Friends.mp3
+Oct 07 15:41 : update: added Legends/01-Gimme Shelter.mp3
+Oct 07 15:41 : update: added Legends/01-Purple Haze.mp3
+Oct 07 15:41 : update: added Legends/01-Start Me Up - 2009 Re-Mastered Digital Version.mp3
+Oct 07 15:41 : update: added Legends/01-My My, Hey Hey (Out Of The Blue).mp3
+Oct 07 15:41 : update: added Legends/11-We've Gotta Get Out of This Place.mp3
+Oct 07 15:41 : update: added Legends/12-Yer Blues - Live.mp3
+Oct 07 15:41 : update: added Legends/05-The Weight - Remastered.mp3
+Oct 07 15:41 : update: added Legends/15-Free Bird.mp3
+Oct 07 15:41 : update: added Legends/10-Truckin' - 2013 Remaster.mp3
+Oct 07 15:41 : update: added Legends/09-Who Are You.mp3
+Oct 07 15:41 : update: added Legends/05-Smoke On The Water - Remastered 2012.mp3
+Oct 07 15:41 : update: added Legends/02-Hush - 1998 Remaster.mp3
+Oct 07 15:41 : update: added Legends/01-In the Midnight Hour.mp3
+Oct 07 15:41 : update: added Legends/02-Paranoid.mp3
+Oct 07 15:41 : update: added Legends/03-Southern Cross - 2005 Remaster.mp3
+Oct 07 15:41 : update: added Legends/01-Free Fallin'.mp3
+Oct 07 15:41 : update: added Legends/14-Mustang Sally.mp3
+Oct 07 15:41 : update: added Legends/04-Stairway to Heaven - 2012 Remaster.mp3
+Oct 07 15:41 : update: added Legends/06-Black Magic Woman.mp3
+Oct 07 15:41 : update: added Legends/02-Sunshine Of Your Love.mp3
+Oct 07 15:41 : update: added Legends/03-Small Town.mp3
+Oct 07 15:41 : update: added Legends/02-Wonderful Tonight.mp3
+Oct 07 15:41 : update: added Legends/10-November Rain.mp3
+Oct 07 15:41 : update: added Legends/02-Money For Nothing.mp3
+Oct 07 15:41 : update: added Legends/01-Running on Empty.mp3
+Oct 07 15:41 : update: added Legends/05-Smokin'.mp3
+Oct 07 15:41 : update: added Legends/01-The Boys Of Summer.mp3
+Oct 07 15:41 : update: added Legends/01-Sympathy For The Devil.mp3
+Oct 07 15:41 : update: added Legends/12-Heart Full of Soul.mp3
+Oct 07 15:41 : update: added Legends/05-Bad Moon Rising.mp3
+Oct 07 15:41 : update: added Legends/06-Fortunate Son.mp3
+Oct 07 15:41 : update: added Legends/09-Brothers In Arms.mp3
+Oct 07 15:41 : update: added Legends/08-Smile.mp3
+Oct 07 15:41 : update: added Legends/02-You Don't Know How It Feels.mp3
+Oct 07 15:41 : update: added Legends/01-Ace of Spades.mp3
+Oct 07 15:41 : update: added Legends/06-Sultans Of Swing.mp3
+Oct 07 15:41 : update: added Legends/08-Jessica.mp3
+Oct 07 15:41 : update: added Legends/05-Stay with Me.mp3
+Oct 07 15:41 : update: added Legends/04-Heart of Gold - 2009 Remaster.mp3
+Oct 07 15:41 : update: added Legends/15-All Along the Watchtower.mp3
+Oct 07 15:41 : update: added Legends/03-Land Of Confusion - 2007 Digital Remaster.mp3
+Oct 07 15:41 : update: added Legends/05-Maggie May.mp3
+Oct 07 15:41 : update: added Legends/15-Mary Jane's Last Dance.mp3
+Oct 07 15:41 : update: added Legends/01-Highway Star - Remastered 2012.mp3
+Oct 07 15:41 : update: added Legends/02-I Won't Back Down.mp3
+Oct 07 15:41 : update: added Legends/03-Hey Joe.mp3
+Oct 07 15:41 : update: added Legends/16-Nights In White Satin - Single Version - Mono Mix.mp3
+Oct 07 15:41 : update: added Legends/01-White Room.mp3
+Oct 07 15:41 : update: added Legends/02-Ramblin' Man.mp3
+Oct 07 15:41 : update: added Legends/03-Gimme Three Steps.mp3
+Oct 07 15:41 : update: added Legends/05-Born To Be Wild.mp3
+Oct 07 15:41 : update: added Legends/01-We're Still Here.mp3
+Oct 07 15:41 : update: added Legends/03-Midnight Rider.mp3
+Oct 07 15:41 : update: added Legends/07-Sailing To Philadelphia.mp3
+Oct 07 15:41 : update: added Legends/07-All Right Now.mp3
+Oct 07 15:41 : update: added Legends/14-He Ain't Heavy He's My Brother - 1998 Remaster.mp3
+Oct 07 15:41 : update: added Legends/07-Me and Bobby McGee.mp3
+Oct 07 15:41 : update: added Legends/02-Romeo And Juliet.mp3
+Oct 07 15:41 : update: added Legends/04-Have You Ever Seen The Rain.mp3
+Oct 07 15:41 : update: added Pink Floyed/06-Mother - 2011 Remastered Version.mp3
+Oct 07 15:41 : update: added Pink Floyed/01-Shine On You Crazy Diamond (Pts. 1-5).mp3
+Oct 07 15:41 : update: added Pink Floyed/02-Welcome To The Machine - 2011 Remastered Version.mp3
+Oct 07 15:41 : update: added Pink Floyed/05-The Great Gig In The Sky - 2011 Remastered Version.mp3
+Oct 07 15:41 : update: added Pink Floyed/03-Have a Cigar.mp3
+Oct 07 15:41 : update: added Pink Floyed/07-Us And Them - 2011 Remastered Version.mp3
+Oct 07 15:41 : update: added Pink Floyed/06-Money - 2011 Remastered Version.mp3
+Oct 07 15:41 : update: added Pink Floyed/01-Hey You - 2011 Remastered Version.mp3
+Oct 07 15:41 : update: added Pink Floyed/09-Brain Damage - 2011 Remastered Version.mp3
+Oct 07 15:41 : update: added Pink Floyed/02-Dogs - 2011 Remastered Version.mp3
+Oct 07 15:41 : update: added Pink Floyed/04-Time - 2011 Remastered Version.mp3
+Oct 07 15:41 : update: added Pink Floyed/05-Another Brick in the Wall, Pt. 2.mp3
+Oct 07 15:41 : update: added Pink Floyed/06-Comfortably Numb.mp3
+Oct 07 15:41 : update: added Pink Floyed/02-Breathe (In The Air) - 2011 Remastered Version.mp3
+Oct 07 15:41 : update: added Pink Floyed/02-Dogs - 2011 Remastered Version (1).mp3
+Oct 07 15:41 : update: added Robert Cray Band/05-Holdin' On.mp3
+Oct 07 15:41 : update: added Robert Cray Band/03-All the Way.mp3
+Oct 07 15:41 : update: added Robert Cray Band/04-A World Away.mp3
+Oct 07 15:41 : update: added Robert Cray Band/05-Too Rolling Stoned - 2007 Remaster.mp3
+Oct 07 15:41 : update: added Robert Cray Band/03-Blues Deluxe.mp3
+Oct 07 15:41 : update: added Robert Cray Band/01-I'm Torn Down.mp3
+Oct 07 15:41 : update: added Robert Cray Band/05-Chicken In The Kitchen - Live.mp3
+Oct 07 15:41 : update: added Robert Cray Band/08-Too Drunk To Drive Drunk.mp3
+Oct 07 15:41 : update: added Robert Cray Band/08-Walk Around Time.mp3
+Oct 07 15:41 : update: added Robert Cray Band/09-Midnight Blues.mp3
+Oct 07 15:41 : update: added Robert Cray Band/09-You're Everything.mp3
+Oct 07 15:41 : update: added Robert Cray Band/07-Riding With The King.mp3
+Oct 07 15:41 : update: added Robert Cray Band/09-At Last.mp3
+Oct 07 15:41 : update: added Robert Cray Band/01-Love Gone to Waste.mp3
+Oct 07 15:41 : update: added Robert Cray Band/14-I Was Warned.mp3
+Oct 07 15:41 : update: added Robert Cray Band/01-Confidence Man.mp3
+Oct 07 15:41 : update: added Robert Cray Band/04-Labor Of Love.mp3
+Oct 07 15:41 : update: added Robert Cray Band/07-Phone Booth.mp3
+Oct 07 15:41 : update: added Robert Cray Band/01-Baby's Arms.mp3
+Oct 07 15:41 : update: added Robert Cray Band/04-Good Texan.mp3
+Oct 07 15:41 : update: added Robert Cray Band/05-Don't Break This Ring.mp3
+Oct 07 15:41 : update: added Robert Cray Band/05-I'm Afraid.mp3
+Oct 07 15:41 : update: added Robert Cray Band/01-Life On The Line.mp3
+Oct 07 15:41 : update: added Robert Cray Band/01-Wont Be Coming Home.mp3
+Oct 07 15:41 : update: added Robert Cray Band/04-I Can't Go Home.mp3
+Oct 07 15:41 : update: added Robert Cray Band/02-These Things.mp3
+Oct 07 15:41 : update: added Robert Cray Band/03-Fine Yesterday.mp3
+Oct 07 15:41 : update: added Robert Cray Band/01-Slow Train.mp3
+Oct 07 15:41 : update: added Robert Cray Band/01-My My, Hey Hey (Out of the Blue) - 2016 Remaster.mp3
+Oct 07 15:41 : update: added Robert Cray Band/04-Down by the River - 2009 Remaster.mp3
+Oct 07 15:41 : update: added Robert Cray Band/06-Pardon.mp3
+Oct 07 15:41 : update: added Robert Cray Band/01-Our Last Time - Live.mp3
+Oct 07 15:41 : update: added Robert Cray Band/06-Consequences.mp3
+Oct 07 15:41 : update: added Robert Cray Band/03-I Shiver.mp3
+Oct 07 15:41 : update: added Robert Cray Band/07-Leave Well Enough Alone.mp3
+Oct 07 15:41 : update: added Robert Cray Band/01-Don't Be Afraid Of The Dark.mp3
+Oct 07 15:41 : update: added Robert Cray Band/03-Only Love Can Break Your Heart.mp3
+Oct 07 15:41 : update: added Robert Cray Band/05-24-7 Man.mp3
+Oct 07 15:41 : update: added Robert Cray Band/01-You Move Me.mp3
+Oct 07 15:41 : update: added Robert Cray Band/02-Don't You Even Care.mp3
+Oct 07 15:41 : update: added Robert Cray Band/05-The Weight.mp3
+Oct 07 15:41 : update: added Robert Cray Band/24-Too Many Cooks.mp3
+Oct 07 15:41 : update: added Robert Cray Band/09-Some Pain, Some Shame.mp3
+Oct 07 15:41 : update: added Robert Cray Band/11-What About Me.mp3
+Oct 07 15:41 : update: added Robert Cray Band/04-Harvest Moon.mp3
+Oct 07 15:41 : update: added Robert Cray Band/02-River's Gonna Rise.mp3
+Oct 07 15:41 : update: added Robert Cray Band/01-Cinnamon Girl - 2009 Remaster.mp3
+Oct 07 15:41 : update: added Robert Cray Band/01-Saw My Mama Cryin.mp3
+Oct 07 15:41 : update: added Robert Cray Band/02-After the Gold Rush - 2009 Remaster.mp3
+Oct 07 15:41 : update: added Robert Cray Band/07-What Would You Say.mp3
+Oct 07 15:41 : update: added Robert Cray Band/02-Am I Losing You.mp3
+Oct 07 15:41 : update: added Robert Cray Band/17-Ohio.mp3
+Oct 07 15:41 : update: added Robert Cray Band/07-Mary Had a Little Lamb.mp3
+Oct 07 15:41 : update: added Robert Cray Band/10-Blackest Day.mp3
+Oct 07 15:41 : update: added Robert Cray Band/05-I Guess I'll Never Know.mp3
+Oct 07 15:41 : update: added Robert Cray Band/13-Trick Or Treat.mp3
+Oct 07 15:41 : update: added Robert Cray Band/01-Smoking Gun.mp3
+Oct 07 15:41 : update: added Robert Cray Band/12-Time Makes Two - Live.mp3
+Oct 07 15:41 : update: added Robert Cray Band/03-Your Secret's Safe With Me.mp3
+Oct 07 15:41 : update: added Robert Cray Band/01-Damn Right, I've Got the Blues.mp3
+Oct 07 15:41 : update: added Robert Cray Band/04-Heart of Gold - 2009 Remaster.mp3
+Oct 07 15:41 : update: added Robert Cray Band/08-Across The Line.mp3
+Oct 07 15:41 : update: added Robert Cray Band/04-Right Next Door - Live.mp3
+Oct 07 15:41 : update: added Robert Cray Band/06-Old Man - 2009 Remaster.mp3
+Oct 07 15:41 : update: added Robert Cray Band/10-You're Gonna Need Me.mp3
+Oct 07 15:41 : update: added Robert Cray Band/02-Anytime - Live.mp3
+Oct 07 15:41 : update: added Robert Cray Band/09-Need Her So Bad.mp3
+Oct 07 15:41 : update: added Robert Cray Band/04-Your Good Thing Is About To End.mp3
+Oct 07 15:41 : update: added Robert Cray Band/06-Blues Get Off My Shoulder.mp3
+Oct 07 15:41 : update: added Robert Cray Band/16-Playin' In the Dirt.mp3
+Oct 07 15:41 : update: added Robert Cray Band/18-Little Wing.mp3
+Oct 07 15:41 : update: added Robert Cray Band/02-Already Gone.mp3
+Oct 07 15:41 : update: added Robert Cray Band/04-There's Nothing Wrong.mp3
+Oct 07 15:41 : update: added Robert Cray Band/06-Sitting On Top Of The World - Live.mp3
+Oct 07 15:41 : update: added Robert Cray Band/11-Beautifully Broken.mp3
+Oct 07 15:41 : update: added Robert Cray Band/04-Rock and Roll, Hoochie Koo.mp3
+Oct 07 15:41 : update: added Robert Cray Band/01-The Forecast (Calls For Pain).mp3
+Oct 07 15:41 : update: added Robert Cray Band/05-Bouncin' Back.mp3
+Oct 07 15:41 : update: added Robert Cray Band/08-The One In The Middle.mp3
+Oct 07 15:41 : update: added Robert Cray Band/03-The Thrill Is Gone.mp3
+Oct 07 15:41 : update: added Rock/01-Price to Play.mp3
+Oct 07 15:41 : update: added Rock/10-Reality.mp3
+Oct 07 15:41 : update: added Rock/09-Dirty White Boy - Radio Edit; 2017 Remaster [Radio Edit].mp3
+Oct 07 15:41 : update: added Rock/03-Believe.mp3
+Oct 07 15:41 : update: added Rock/15-Sober - Acoustic Live.mp3
+Oct 07 15:41 : update: added Rock/03-So Far Away.mp3
+Oct 07 15:41 : update: added Rock/09-Tangled up in You.mp3
+Oct 07 15:41 : update: added Rock/09-Everything Changes.mp3
+Oct 07 15:41 : update: added Rock/08-Too Late - 2017 Remaster.mp3
+Oct 07 15:41 : update: added Rock/19-Tooth and Nail - 2017 Remaster.mp3
+Oct 07 15:41 : update: added Rock/01-Bomb Through the Breeze.mp3
+Oct 07 15:41 : update: added Rock/05-Headknocker - 2017 Remaster.mp3
+Oct 07 15:41 : update: added Rock/11-Outside.mp3
+Oct 07 15:41 : update: added Rock/03-Failing.mp3
+Oct 07 15:41 : update: added Rock/18-It's Been Awhile - Acoustic Live.mp3
+Oct 07 15:41 : update: added Rock/01-Eyes Wide Open.mp3
+Oct 07 15:41 : update: added Rock/07-Devil.mp3
+Oct 07 15:41 : update: added Rock/01-Hot Blooded.mp3
+Oct 07 15:41 : update: added Rock/09-Warm Safe Place.mp3
+Oct 07 15:41 : update: added Rock/04-Schizophrenic Conversations.mp3
+Oct 07 15:41 : update: added Rock/13-Say You Will - Acoustic; 2017 Remaster.mp3
+Oct 07 15:41 : update: added Rock/06-Cross to Bear.mp3
+Oct 07 15:41 : update: added Rock/10-Already Gone - Live at The Forum, Los Angeles, CA, 10-20-22-1976.mp3
+Oct 07 15:41 : update: added Rock/05-Falling.mp3
+Oct 07 15:41 : update: added Rock/17-I Want to Know What Love Is - 2017 Remaster.mp3
+Oct 07 15:41 : update: added Rock/03-New Kid in Town - Live at Capital Centre, Landover, MD, 3-21-22-1977; 2017 Remaster.mp3
+Oct 07 15:41 : update: added Rock/08-Layne.mp3
+Oct 07 15:41 : update: added Rock/16-Luanne - 2017 Remaster.mp3
+Oct 07 15:41 : update: added Rock/02-Mudshovel.mp3
+Oct 07 15:41 : update: added Rock/11-Women - 2017 Remaster.mp3
+Oct 07 15:41 : update: added Rock/12-Reply.mp3
+Oct 07 15:41 : update: added Rock/05-Good Day in Hell - Live at The Forum, Los Angeles, CA, 10-20-22-1976.mp3
+Oct 07 15:41 : update: added Rock/05-Throw It All Away.mp3
+Oct 07 15:41 : update: added Rock/04-James Dean - Live at The Forum, Los Angeles, CA, 10-20-22-1976.mp3
+Oct 07 15:41 : update: added Rock/04-Soul Doctor - 2017 Remaster.mp3
+Oct 07 15:41 : update: added Rock/08-Blue Morning, Blue Day - 2017 Remaster.mp3
+Oct 07 15:41 : update: added Rock/01-Black Magic.mp3
+Oct 07 15:41 : update: added Rock/07-Epiphany.mp3
+Oct 07 15:41 : update: added Rock/10-Something to Remind You.mp3
+Oct 07 15:41 : update: added Rock/04-Wasted Time - 2013 Remaster.mp3
+Oct 07 15:41 : update: added Rock/11-In Pieces - 2017 Remaster.mp3
+Oct 07 15:41 : update: added Rock/11-Tonight.mp3
+Oct 07 15:41 : update: added Rock/06-Rain - Remastered.mp3
+Oct 07 15:41 : update: added Rock/04-Your Decision (1).mp3
+Oct 07 15:41 : update: added Rock/13-Everything Changes - Acoustic Live.mp3
+Oct 07 15:41 : update: added Rock/10-Can't Slow Down - 2017 Remaster.mp3
+Oct 07 15:41 : update: added Rock/09-Price to Play.mp3
+Oct 07 15:41 : update: added Rock/01-Holy Ghost Fire.mp3
+Oct 07 15:41 : update: added Rock/13-Juke Box Hero - Radio Edit; 2017 Remaster [Radio Edit].mp3
+Oct 07 15:41 : update: added Rock/01-This Is It.mp3
+Oct 07 15:41 : update: added Rock/21-Down on Love - 2017 Remaster.mp3
+Oct 07 15:41 : update: added Rock/04-Yesterday.mp3
+Oct 07 15:41 : update: added Rock/03-Home.mp3
+Oct 07 15:41 : update: added Rock/06-Pardon Me.mp3
+Oct 07 15:41 : update: added Rock/01-Come Again.mp3
+Oct 07 15:41 : update: added Rock/12-Falling.mp3
+Oct 07 15:41 : update: added Rock/07-All I Need To Know - Remastered.mp3
+Oct 07 15:41 : update: added Rock/11-Right Here.mp3
+Oct 07 15:41 : update: added Rock/12-The Corner.mp3
+Oct 07 15:41 : update: added Rock/15-Night Life - 2017 Remaster.mp3
+Oct 07 15:41 : update: added Rock/02-Daytime Drama.mp3
+Oct 07 15:41 : update: added Rock/08-Try and Love Again - 2013 Remaster.mp3
+Oct 07 15:41 : update: added Rock/02-Can't Wait - 2017 Remaster.mp3
+Oct 07 15:41 : update: added Rock/07-The Bottom.mp3
+Oct 07 15:41 : update: added Rock/10-For You.mp3
+Oct 07 15:41 : update: added Rock/03-Paper Jesus.mp3
+Oct 07 15:41 : update: added Rock/02-The Way I Am.mp3
+Oct 07 15:41 : update: added Rock/05-Wasted Time - 2013 Remaster.mp3
+Oct 07 15:41 : update: added Rock/01-Hotel California - 2013 Remaster.mp3
+Oct 07 15:41 : update: added Rock/05-White Lie - Single Version.mp3
+Oct 07 15:41 : update: added Rock/01-Feels like the First Time - Radio Edit; 2017 Remaster [Radio Edit].mp3
+Oct 07 15:41 : update: added Rock/10-Raining Again.mp3
+Oct 07 15:41 : update: added Rock/03-Life in the Fast Lane - 2013 Remaster.mp3
+Oct 07 15:41 : update: added Rock/08-Now.mp3
+Oct 07 15:41 : update: added Rock/14-It's Been Awhile - Acoustic.mp3
+Oct 07 15:41 : update: added Rock/16-Break It Up - Live; 2017 Remaster [Remastered].mp3
+Oct 07 15:41 : update: added Rock/04-Your Decision.mp3
+Oct 07 15:41 : update: added Rock/12-Fool for You Anyway - 2017 Remaster.mp3
+Oct 07 15:41 : update: added Rock/12-Waste.mp3
+Oct 07 15:41 : update: added Rock/19-The Flame Still Burns - 2017 Remaster.mp3
+Oct 07 15:41 : update: added Rock/11-King of All Excuses.mp3
+Oct 07 15:41 : update: added Rock/14-It's Been Awhile - Acoustic Live at Hiro Ballroom.mp3
+Oct 07 15:41 : update: added Rock/20-Reaction to Action - Radio Edit; 2017 Remaster [Radio Edit].mp3
+Oct 07 15:41 : update: added Rock/07-Lost Along the Way.mp3
+Oct 07 15:41 : update: added Rock/01-When I'm Gone.mp3
+Oct 07 15:41 : update: added Rock/05-Flesh For Fantasy - Remastered.mp3
+Oct 07 15:41 : update: added Rock/03-Fade.mp3
+Oct 07 15:41 : update: added Rock/04-Wannabe.mp3
+Oct 07 15:41 : update: added Rock/03-Cold as Ice - 2017 Remaster.mp3
+Oct 07 15:41 : update: added Rock/07-Pretty Maids All in a Row - 2013 Remaster.mp3
+Oct 07 15:41 : update: added Rock/04-Outside (feat. Fred Durst) - Family Values Live Version.mp3
+Oct 07 15:41 : update: added Rock/10-Take This.mp3
+Oct 07 15:41 : update: added Rock/14-Intro.mp3
+Oct 07 15:41 : update: added Rock/05-Fray.mp3
+Oct 07 15:41 : update: added Rock/01-Heart Turns to Stone - Radio Edit; 2017 Remaster [Radio Edit].mp3
+Oct 07 15:41 : update: added Rock/14-Save Me - 2017 Remaster.mp3
+Oct 07 15:41 : update: added Rock/08-Please.mp3
+Oct 07 15:41 : update: added Rock/13-Blow Away.mp3
+Oct 07 15:41 : update: added Rock/01-Take It Easy - Live at The Forum, Los Angeles, CA, 10-20-22-1976.mp3
+Oct 07 15:41 : update: added Rock/17-Outside - Acoustic Live.mp3
+Oct 07 15:41 : update: added Rock/09-Falling Down.mp3
+Oct 07 15:41 : update: added Rock/13-Nothing Left to Say.mp3
+Oct 07 15:41 : update: added Rock/05-Change.mp3
+Oct 07 15:41 : update: added Rock/06-Can't Believe.mp3
+Oct 07 15:41 : update: added Rock/02-Right Here.mp3
+Oct 07 15:41 : update: added Rock/09-Paper Wings.mp3
+Oct 07 15:41 : update: added Rock/09-Hotel California - Live at The Forum, Los Angeles, CA, 10-20-22-1976.mp3
+Oct 07 15:41 : update: added Rock/15-Girl on the Moon - Live; 2017 Remaster [Remastered].mp3
+Oct 07 15:41 : update: added Rock/06-Victim of Love - 2013 Remaster.mp3
+Oct 07 15:41 : update: added Rock/12-Urgent - Radio Edit; 2017 Remaster [Radio Edit].mp3
+Oct 07 15:41 : update: added Rock/12-Could It Be.mp3
+Oct 07 15:41 : update: added Rock/06-For You.mp3
+Oct 07 15:41 : update: added Rock/16-Comfortably Numb - Acoustic Live.mp3
+Oct 07 15:41 : update: added Rock/08-One of These Nights - Live at Capital Centre, Landover, MD, 3-21-22-1977; 2017 Remaster.mp3
+Oct 07 15:41 : update: added Rock/07-Fill Me Up.mp3
+Oct 07 15:41 : update: added Rock/11-Rainy Day Parade.mp3
+Oct 07 15:41 : update: added Rock/08-So Far Away.mp3
+Oct 07 15:41 : update: added Rock/14-Nutshell - Acoustic Live.mp3
+Oct 07 15:41 : update: added Rock/02-Eagle Birds.mp3
+Oct 07 15:41 : update: added Rock/08-Suffer.mp3
+Oct 07 15:41 : update: added Rock/09-When It Comes to Love - 2017 Remaster.mp3
+Oct 07 15:41 : update: added Rock/18-That Was Yesterday - 2017 Remaster.mp3
+Oct 07 15:41 : update: added Rock/05-It's Been Awhile.mp3
+Oct 07 15:41 : update: added Rock/10-Head Games - 2017 Remaster.mp3
+Oct 07 15:41 : update: added Rock/02-Starrider - 2017 Remaster.mp3
+Oct 07 15:41 : update: added Rock/08-Break Away.mp3
+Oct 07 15:41 : update: added Rock/09-The Last Resort - 2013 Remaster.mp3
+Oct 07 15:41 : update: added Rock/03-Eyes Without A Face.mp3
+Oct 07 15:41 : update: added Rock/02-Pressure.mp3
+Oct 07 15:41 : update: added Rock/01-Rebel Yell.mp3
+Oct 07 15:41 : update: added Rock/06-Witchy Woman - Live at The Forum, Los Angeles, CA, 10-20-22-1976.mp3
+Oct 07 15:41 : update: added Rock/05-The Joker.mp3
+Oct 07 15:41 : update: added Rock/04-Save Me.mp3
+Oct 07 15:41 : update: added Rock/04-It's Been Awhile.mp3
+Oct 07 15:41 : update: added Rock/01-Run Away.mp3
+Oct 07 15:41 : update: added Rock/13-Take It.mp3
+Oct 07 15:41 : update: added Rock/01-Karma.mp3
+Oct 07 15:41 : update: added Rock/03-In the City - 2013 Remaster (1).mp3
+Oct 07 15:41 : update: added Rock/06-Take a Breath.mp3
+Oct 07 15:41 : update: added Rock/04-Long, Long Way from Home - 2017 Remaster.mp3
+Oct 07 15:41 : update: added Rock/03-Lowdown and Dirty - 2017 Remaster.mp3
+Oct 07 15:41 : update: added Rock/05-All I Want.mp3
+Oct 07 15:41 : update: added Rock/10-Zoe Jane.mp3
+Oct 07 15:41 : update: added Rock/15-Schizophrenic Conversations - Live at Hiro Ballroom.mp3
+Oct 07 15:41 : update: added Rock/01-Well Wasted.mp3
+Oct 07 15:41 : update: added Rock/07-Double Vision - Radio Edit; 2017 Remaster [Radio Edit].mp3
+Oct 07 15:41 : update: added Rock/01-Open Your Eyes.mp3
+Oct 07 15:41 : update: added Rock/02-Take It to the Limit - Live at Capital Centre, Landover, MD, 3-21-22-1977; 2017 Remaster.mp3
+Oct 07 15:41 : update: added Rock/18-Give My Life for Love - 2017 Remaster.mp3
+Oct 07 15:41 : update: added Rock/07-Funk #49 - Live at The Forum, Los Angeles, CA, 10-20-22-1976.mp3
+Oct 07 15:41 : update: added Rock/06-Hot Blooded - Radio Edit; 2017 Remaster [Radio Edit].mp3
+Oct 07 15:41 : update: added Rock/04-Blue Highway.mp3
+Oct 07 15:41 : update: added Rock/06-Zoe Jane.mp3
+Oct 07 15:41 : update: added Rock/02-Not Again.mp3
+Oct 07 15:41 : update: added Rock/02-New Kid in Town - 2013 Remaster.mp3
+Oct 07 15:41 : update: added Rock/02-How About You.mp3
+Oct 07 15:41 : update: added Rock/17-I Don't Want to Live Without You - 2017 Remaster.mp3
+Oct 07 15:41 : update: added Rock/14-Waiting for a Girl like You - Radio Edit; 2017 Remaster [Radio Edit].mp3
+Oct 07 15:41 : update: added Rock/12-Low Down Rolling Stone.mp3
+Oct 07 15:41 : update: added Rock/03-In the City - 2013 Remaster.mp3
+Oct 07 15:41 : update: added Summerhits/07 - Nickelback - Never Gonna Be Alone.mp3
+Oct 07 15:41 : update: added Summerhits/01 - Fleetwood Mac - Second Hand News - 2004 Remaster.mp3
+Oct 07 15:41 : update: added Summerhits/06 - Nickelback - Just to Get High.mp3
+Oct 07 15:41 : update: added Summerhits/01 - Tommy Emmanuel - Only Elliot.mp3
+Oct 07 15:41 : update: added Summerhits/02 - Peter Gabriel - Sledgehammer - Remastered.mp3
+Oct 07 15:41 : update: added Summerhits/01 - Bruce Hornsby - The Way It Is - Remastered.mp3
+Oct 07 15:41 : update: added Summerhits/06 - Red Hot Chili Peppers - Californication.mp3
+Oct 07 15:41 : update: added Summerhits/02 - AC_DC - This House Is on Fire.mp3
+Oct 07 15:41 : update: added Summerhits/02 - Klaus Doldinger's Passport - Inner City Blues.mp3
+Oct 07 15:41 : update: added Summerhits/01 - Steve Winwood - While You See A Chance.mp3
+Oct 07 15:41 : update: added Summerhits/08 - Eric Clapton - Bad Love - 2015 Remaster.mp3
+Oct 07 15:41 : update: added Summerhits/05 - AC_DC - Landslide.mp3
+Oct 07 15:41 : update: added Summerhits/11 - Fleetwood Mac - Gold Dust Woman - 2004 Remaster.mp3
+Oct 07 15:41 : update: added Summerhits/02 - Saga - Cat Walk.mp3
+Oct 07 15:41 : update: added Summerhits/01 - Lynyrd Skynyrd - Sweet Home Alabama.mp3
+Oct 07 15:41 : update: added Summerhits/02 - AC_DC - Shoot to Thrill.mp3
+Oct 07 15:41 : update: added Summerhits/06 - Gerry Rafferty - The Royal Mile.mp3
+Oct 07 15:41 : update: added Summerhits/06 - AC_DC - Can't Stand Still.mp3
+Oct 07 15:41 : update: added Summerhits/02 - Steve Miller Band - Fly Like An Eagle.mp3
+Oct 07 15:41 : update: added Summerhits/01 - Tracy Chapman - Telling Stories - 2015 Remaster.mp3
+Oct 07 15:41 : update: added Summerhits/04 - Eric Clapton - Sunshine of Your Love - Live at Royal Albert Hall, London, England, UK, 1990 - 1991.mp3
+Oct 07 15:41 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 07 15:46 : player: played "Pink Floyed/02-Dogs - 2011 Remastered Version (1).mp3"
+Oct 07 15:46 : player: played "Pink Floyed/02-Dogs - 2011 Remastered Version.mp3"
+Oct 07 15:49 : player: played "Pink Floyed/02-Breathe (In The Air) - 2011 Remastered Version.mp3"
+Oct 07 15:56 : player: played "Pink Floyed/04-Time - 2011 Remastered Version.mp3"
+Oct 07 16:00 : player: played "Pink Floyed/05-The Great Gig In The Sky - 2011 Remastered Version.mp3"
+Oct 07 16:07 : player: played "Pink Floyed/06-Money - 2011 Remastered Version.mp3"
+Oct 07 16:07 : player: played "Pink Floyed/07-Us And Them - 2011 Remastered Version.mp3"
+Oct 07 16:09 : player: played "Pink Floyed/09-Brain Damage - 2011 Remastered Version.mp3"
+Oct 07 16:10 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 07 16:41 : player: played "Pink Floyed/09-Brain Damage - 2011 Remastered Version.mp3"
+Oct 07 16:45 : player: played "Pink Floyed/05-Another Brick in the Wall, Pt. 2.mp3"
+Oct 07 16:52 : player: played "Pink Floyed/06-Comfortably Numb.mp3"
+Oct 07 16:58 : player: played "Pink Floyed/01-Hey You - 2011 Remastered Version.mp3"
+Oct 07 16:59 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 07 18:25 : player: played "Pink Floyed/01-Hey You - 2011 Remastered Version.mp3"
+Oct 07 18:26 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 07 18:33 : player: played "Pink Floyed/01-Hey You - 2011 Remastered Version.mp3"
+Oct 07 18:33 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 07 18:47 : player: played "Pink Floyed/01-Hey You - 2011 Remastered Version.mp3"
+Oct 07 18:48 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 07 19:38 : player: played "Pink Floyed/01-Hey You - 2011 Remastered Version.mp3"
+Oct 07 19:38 : player: played "Pink Floyed/06-Mother - 2011 Remastered Version.mp3"
+Oct 07 19:52 : player: played "Pink Floyed/01-Shine On You Crazy Diamond (Pts. 1-5).mp3"
+Oct 07 19:55 : player: played "Pink Floyed/03-Have a Cigar.mp3"
+Oct 07 19:55 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 07 20:29 : player: played "Pink Floyed/03-Have a Cigar.mp3"
+Oct 07 20:37 : player: played "Pink Floyed/02-Welcome To The Machine - 2011 Remastered Version.mp3"
+Oct 07 20:40 : player: played "Pink Floyed/02-Dogs - 2011 Remastered Version (1).mp3"
+Oct 07 20:40 : player: played "Pink Floyed/02-Dogs - 2011 Remastered Version.mp3"
+Oct 07 20:43 : player: played "Pink Floyed/02-Breathe (In The Air) - 2011 Remastered Version.mp3"
+Oct 07 20:50 : player: played "Pink Floyed/04-Time - 2011 Remastered Version.mp3"
+Oct 07 20:54 : player: played "Pink Floyed/05-The Great Gig In The Sky - 2011 Remastered Version.mp3"
+Oct 07 21:01 : player: played "Pink Floyed/06-Money - 2011 Remastered Version.mp3"
+Oct 07 21:01 : player: played "Pink Floyed/07-Us And Them - 2011 Remastered Version.mp3"
+Oct 07 21:05 : player: played "Pink Floyed/09-Brain Damage - 2011 Remastered Version.mp3"
+Oct 07 21:09 : player: played "Pink Floyed/05-Another Brick in the Wall, Pt. 2.mp3"
+Oct 07 21:15 : player: played "Pink Floyed/06-Comfortably Numb.mp3"
+Oct 07 21:17 : player: played "Pink Floyed/01-Hey You - 2011 Remastered Version.mp3"
+Oct 07 21:18 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 07 22:07 : player: played "Rock/01-Feels like the First Time - Radio Edit; 2017 Remaster [Radio Edit].mp3"
+Oct 07 22:11 : player: played "Rock/01-Heart Turns to Stone - Radio Edit; 2017 Remaster [Radio Edit].mp3"
+Oct 07 22:15 : player: played "Rock/02-Can't Wait - 2017 Remaster.mp3"
+Oct 07 22:19 : player: played "Rock/02-Starrider - 2017 Remaster.mp3"
+Oct 08 01:01 : player: played "Rock/03-Cold as Ice - 2017 Remaster.mp3"
+Oct 08 01:05 : player: played "Rock/03-Lowdown and Dirty - 2017 Remaster.mp3"
+Oct 08 01:08 : player: played "Rock/04-Soul Doctor - 2017 Remaster.mp3"
+Oct 08 01:11 : player: played "Rock/05-Headknocker - 2017 Remaster.mp3"
+Oct 08 01:15 : player: played "Rock/05-White Lie - Single Version.mp3"
+Oct 08 01:18 : player: played "Rock/06-Hot Blooded - Radio Edit; 2017 Remaster [Radio Edit].mp3"
+Oct 08 01:22 : player: played "Rock/06-Rain - Remastered.mp3"
+Oct 08 01:27 : player: played "Rock/07-All I Need To Know - Remastered.mp3"
+Oct 08 01:31 : player: played "Rock/07-Double Vision - Radio Edit; 2017 Remaster [Radio Edit].mp3"
+Oct 08 01:34 : player: played "Rock/08-Blue Morning, Blue Day - 2017 Remaster.mp3"
+Oct 08 01:38 : player: played "Rock/08-Too Late - 2017 Remaster.mp3"
+Oct 08 01:41 : player: played "Rock/09-Dirty White Boy - Radio Edit; 2017 Remaster [Radio Edit].mp3"
+Oct 08 01:41 : player: played "Rock/09-When It Comes to Love - 2017 Remaster.mp3"
+Oct 08 01:45 : player: played "Rock/10-Can't Slow Down - 2017 Remaster.mp3"
+Oct 08 01:48 : player: played "Rock/10-Head Games - 2017 Remaster.mp3"
+Oct 08 01:52 : player: played "Rock/11-In Pieces - 2017 Remaster.mp3"
+Oct 08 01:56 : player: played "Rock/11-Women - 2017 Remaster.mp3"
+Oct 08 02:00 : player: played "Rock/12-Urgent - Radio Edit; 2017 Remaster [Radio Edit].mp3"
+Oct 08 02:04 : player: played "Rock/13-Juke Box Hero - Radio Edit; 2017 Remaster [Radio Edit].mp3"
+Oct 08 02:07 : player: played "Rock/13-Say You Will - Acoustic; 2017 Remaster.mp3"
+Oct 08 02:11 : player: played "Rock/14-Save Me - 2017 Remaster.mp3"
+Oct 08 02:16 : player: played "Rock/14-Waiting for a Girl like You - Radio Edit; 2017 Remaster [Radio Edit].mp3"
+Oct 08 02:20 : player: played "Rock/15-Girl on the Moon - Live; 2017 Remaster [Remastered].mp3"
+Oct 08 02:24 : player: played "Rock/15-Night Life - 2017 Remaster.mp3"
+Oct 08 02:28 : player: played "Rock/16-Break It Up - Live; 2017 Remaster [Remastered].mp3"
+Oct 08 02:32 : player: played "Rock/16-Luanne - 2017 Remaster.mp3"
+Oct 08 02:35 : player: played "Rock/17-I Don't Want to Live Without You - 2017 Remaster.mp3"
+Oct 08 02:40 : player: played "Rock/17-I Want to Know What Love Is - 2017 Remaster.mp3"
+Oct 08 02:44 : player: played "Rock/18-Give My Life for Love - 2017 Remaster.mp3"
+Oct 08 02:48 : player: played "Rock/18-That Was Yesterday - 2017 Remaster.mp3"
+Oct 08 02:53 : player: played "Rock/19-The Flame Still Burns - 2017 Remaster.mp3"
+Oct 08 02:57 : player: played "Rock/19-Tooth and Nail - 2017 Remaster.mp3"
+Oct 08 03:00 : player: played "Rock/20-Reaction to Action - Radio Edit; 2017 Remaster [Radio Edit].mp3"
+Oct 08 03:04 : player: played "Rock/21-Down on Love - 2017 Remaster.mp3"
+Oct 08 03:15 : player: played "Legends/05-Stay with Me.mp3"
+Oct 08 03:19 : player: played "Legends/03-Dream On.mp3"
+Oct 08 03:24 : player: played "00Rock/03_-_Thirty_Seconds_To_Mars_-_The_Kill__Bury_Me_.mp3"
+Oct 08 03:24 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 08 03:25 : player: played "00Rock/03_-_Thirty_Seconds_To_Mars_-_The_Kill__Bury_Me_.mp3"
+Oct 08 03:30 : player: played "00Rock/01_-_U2_-_Beautiful_Day.mp3"
+Oct 08 03:34 : player: played "00Rock/11_-_Nickelback_-_Rockstar.mp3"
+Oct 08 03:37 : player: played "00Rock/12_-_Alien_Ant_Farm_-_Smooth_Criminal.mp3"
+Oct 08 03:42 : player: played "00Rock/01_-_Foo_Fighters_-_Best_of_You.mp3"
+Oct 08 03:47 : player: played "00Rock/01_-_AC_DC_-_Rock_N_Roll_Train.mp3"
+Oct 08 03:50 : player: played "00Rock/03_-_blink-182_-_I_Miss_You.mp3"
+Oct 08 03:55 : player: played "00Rock/11_-_Red_Hot_Chili_Peppers_-_Under_the_Bridge.mp3"
+Oct 08 03:59 : player: played "00Rock/04_-_Staind_-_It_s_Been_Awhile.mp3"
+Oct 08 04:04 : player: played "00Rock/10_-_Limp_Bizkit_-_Take_A_Look_Around.mp3"
+Oct 08 04:09 : player: played "00Rock/05_-_Puddle_Of_Mudd_-_Blurry.mp3"
+Oct 08 04:14 : player: played "00Rock/08_-_Stone_Sour_-_Through_Glass.mp3"
+Oct 08 04:17 : player: played "00Rock/04_-_Sum_41_-_Still_Waiting.mp3"
+Oct 08 04:20 : player: played "00Rock/02_-_Seether_-_Fake_It.mp3"
+Oct 08 04:25 : player: played "00Rock/04_-_Oasis_-_Stop_Crying_Your_Heart_Out.mp3"
+Oct 08 04:28 : player: played "00Rock/08_-_Linkin_Park_-_In_the_End.mp3"
+Oct 08 04:32 : player: played "00Rock/02_-_Papa_Roach_-_Last_Resort.mp3"
+Oct 08 04:32 : player: played "00Rock/05_-_The_Smashing_Pumpkins_-_1979_-_Remastered_2012.mp3"
+Oct 08 04:35 : player: played "00Rock/13_-_Linkin_Park_-_Numb.mp3"
+Oct 08 04:40 : player: played "00Rock/01_-_Nirvana_-_Smells_Like_Teen_Spirit.mp3"
+Oct 08 04:45 : player: played "00Rock/04_-_The_Cranberries_-_Zombie.mp3"
+Oct 08 04:49 : player: played "00Rock/01_-_Queens_of_the_Stone_Age_-_No_One_Knows.mp3"
+Oct 08 04:54 : player: played "00Rock/01_-_Foo_Fighters_-_All_My_Life.mp3"
+Oct 08 04:57 : player: played "00Rock/04_-_Kings_of_Leon_-_Use_Somebody.mp3"
+Oct 08 05:01 : player: played "00Rock/02_-_Breaking_Benjamin_-_The_Diary_of_Jane_-_Single_Version.mp3"
+Oct 08 05:06 : player: played "00Rock/02_-_Rage_Against_The_Machine_-_Killing_In_The_Name.mp3"
+Oct 08 05:10 : player: played "00Rock/04_-_P.O.D._-_Youth_of_the_Nation.mp3"
+Oct 08 05:14 : player: played "00Rock/02_-_Nickelback_-_How_You_Remind_Me.mp3"
+Oct 08 05:19 : player: played "00Rock/01_-_Red_Hot_Chili_Peppers_-_Dani_California.mp3"
+Oct 08 10:52 : player: played "00Rock/07_-_Soundgarden_-_Black_Hole_Sun.mp3"
+Oct 08 10:53 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 08 10:54 : player: played "00Rock/07_-_Soundgarden_-_Black_Hole_Sun.mp3"
+Oct 08 10:59 : player: played "00Rock/06_-_Pearl_Jam_-_Jeremy.mp3"
+Oct 08 11:04 : player: played "00Rock/03_-_Radiohead_-_High_And_Dry.mp3"
+Oct 08 11:08 : player: played "00Rock/01_-_3_Doors_Down_-_Kryptonite.mp3"
+Oct 08 11:11 : player: played "00Rock/03_-_Nickelback_-_Someday.mp3"
+Oct 08 12:12 : player: played "00Rock/01_-_Muse_-_Uprising.mp3"
+Oct 08 17:53 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 08 23:30 : player: played "Pink Floyed/05-Another Brick in the Wall, Pt. 2.mp3"
+Oct 08 23:36 : player: played "Pink Floyed/06-Comfortably Numb.mp3"
+Oct 08 23:41 : player: played "Pink Floyed/01-Hey You - 2011 Remastered Version.mp3"
+Oct 08 23:41 : player: played "Pink Floyed/06-Mother - 2011 Remastered Version.mp3"
+Oct 08 23:54 : player: played "Pink Floyed/01-Shine On You Crazy Diamond (Pts. 1-5).mp3"
+Oct 08 23:59 : player: played "Pink Floyed/03-Have a Cigar.mp3"
+Oct 09 00:07 : player: played "Pink Floyed/02-Welcome To The Machine - 2011 Remastered Version.mp3"
+Oct 09 00:10 : player: played "Rock/01-Feels like the First Time - Radio Edit; 2017 Remaster [Radio Edit].mp3"
+Oct 09 00:14 : player: played "Rock/01-Heart Turns to Stone - Radio Edit; 2017 Remaster [Radio Edit].mp3"
+Oct 09 00:19 : player: played "Rock/02-Can't Wait - 2017 Remaster.mp3"
+Oct 09 00:23 : player: played "Rock/02-Starrider - 2017 Remaster.mp3"
+Oct 09 00:26 : player: played "Rock/03-Cold as Ice - 2017 Remaster.mp3"
+Oct 09 01:26 : player: played "Rock/03-Lowdown and Dirty - 2017 Remaster.mp3"
+Oct 09 01:41 : player: played "Rock/04-Long, Long Way from Home - 2017 Remaster.mp3"
+Oct 09 14:36 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 09 15:00 : player: played "Rock/02-Can't Wait - 2017 Remaster.mp3"
+Oct 09 15:04 : player: played "Jeff  Healey Band/10-Life by the Drop.mp3"
+Oct 09 15:12 : player: played "Jeff  Healey Band/06-Song Of Yesterday.mp3"
+Oct 09 15:17 : player: played "Jeff  Healey Band/01-Shapes Of Things.mp3"
+Oct 09 15:21 : player: played "Jeff  Healey Band/02-Stop Breakin' Down.mp3"
+Oct 09 16:30 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 09 16:34 : player: played "Jeff  Healey Band/03-Highway 49.mp3"
+Oct 10 01:25 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 10 02:18 : player: played "Jeff  Healey Band/04-As The Years Go Passing By.mp3"
+Oct 10 02:19 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 10 03:15 : player: played "Jeff  Healey Band/04-As The Years Go Passing By.mp3"
+Oct 10 13:57 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 10 14:01 : player: played "Jeff  Healey Band/04-As The Years Go Passing By.mp3"
+Oct 10 14:02 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 10 19:33 : player: played "Jeff  Healey Band/04-As The Years Go Passing By.mp3"
+Oct 10 19:34 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 10 23:27 : player: played "Jeff  Healey Band/04-As The Years Go Passing By.mp3"
+Oct 11 09:01 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 11 09:02 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 11 09:13 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 11 09:37 : player: played "Jeff  Healey Band/04-As The Years Go Passing By.mp3"
+Oct 11 11:12 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 11 11:47 : update: updating Summerhits/04 - Eric Clapton - Sunshine of Your Love - Live at Royal Albert Hall, London, England, UK, 1990 - 1991.mp3
+Oct 11 11:47 : update: added Summerhits/06 - Tracy Chapman - Subcity.mp3
+Oct 11 11:47 : update: added Summerhits/01 - AC_DC - Riff Raff - Live at the Apollo Theatre, Glasgow, Scotland - April 1978.mp3
+Oct 11 11:47 : update: added Summerhits/03 - Tracy Chapman - Change - 2015 Remaster.mp3
+Oct 11 11:47 : update: added Summerhits/01 - AC_DC - Hells Bells.mp3
+Oct 11 11:47 : update: added Summerhits/01 - Nickelback - Feed the Machine.mp3
+Oct 11 11:47 : update: added Summerhits/02 - Bruce Hornsby - The Valley Road - Remastered.mp3
+Oct 11 11:47 : update: added Summerhits/02 - AC_DC - Highway to Hell.mp3
+Oct 11 11:47 : update: added Summerhits/03 - Tommy Emmanuel - Determination.mp3
+Oct 11 11:47 : update: added Summerhits/03 - Eric Clapton - Lay Down Sally.mp3
+Oct 11 11:47 : update: added Summerhits/01 - Nickelback - Something in Your Mouth.mp3
+Oct 11 11:47 : update: added Summerhits/03 - AC_DC - What Do You Do for Money Honey.mp3
+Oct 11 11:47 : update: added Summerhits/04 - Status Quo - Rain - Live.mp3
+Oct 11 11:47 : update: added Summerhits/02 - AC_DC - Girls Got Rhythm.mp3
+Oct 11 11:47 : update: added Summerhits/04 - AC_DC - The Razors Edge.mp3
+Oct 11 11:47 : update: added Summerhits/09 - Saga - The Pitchman.mp3
+Oct 11 11:47 : update: added Summerhits/07 - Johnny Winter - Jumpin' Jack Flash - Live.mp3
+Oct 11 11:47 : update: added Summerhits/06 - John Lee Hooker - The Healer.mp3
+Oct 11 11:47 : update: added Summerhits/06 - Whitesnake - Here I Go Again - 2011 Remaster.mp3
+Oct 11 11:47 : update: added Summerhits/04 - Gerry Rafferty - Night Owl.mp3
+Oct 11 11:47 : update: added Summerhits/03 - Nickelback - Song On Fire.mp3
+Oct 11 11:47 : update: added Summerhits/04 - Manfred Mann's Earth Band - Davy's on the Road Again - Live.mp3
+Oct 11 11:47 : update: added Summerhits/05 - AC_DC - Safe in New York City.mp3
+Oct 11 11:47 : update: added Summerhits/03 - Tracy Chapman - Freedom Now.mp3
+Oct 11 11:47 : update: added Summerhits/01 - AC_DC - Stiff Upper Lip.mp3
+Oct 11 11:47 : update: added Tommy Emmanuel/01-Fuel.mp3
+Oct 11 11:47 : update: added Tommy Emmanuel/24-Questions - Live.mp3
+Oct 11 11:47 : update: added Tommy Emmanuel/11-Smokey Mountain Lullaby - Instrumental.mp3
+Oct 11 11:47 : update: added Tommy Emmanuel/01-Train to Dusseldorf.mp3
+Oct 11 11:47 : update: added Tommy Emmanuel/04-El Vaquero.mp3
+Oct 11 11:47 : update: added Tommy Emmanuel/16-House Of The Risin' Sun - Live.mp3
+Oct 11 11:47 : update: added Tommy Emmanuel/02-The Mystery (Live).mp3
+Oct 11 11:47 : update: added Tommy Emmanuel/09-And So It Goes.mp3
+Oct 11 11:47 : update: added Tommy Emmanuel/03-(The Man With The) Green Thumb.mp3
+Oct 11 11:47 : update: added Tommy Emmanuel/02-It's Never Too Late.mp3
+Oct 11 11:47 : update: added Tommy Emmanuel/10-Tracy's Tune.mp3
+Oct 11 11:47 : update: added Tommy Emmanuel/06-Lewis & Clark.mp3
+Oct 11 11:47 : update: added Tommy Emmanuel/01-Sail On.mp3
+Oct 11 11:47 : update: added Tommy Emmanuel/02-Smile.mp3
+Oct 11 11:47 : update: added Tommy Emmanuel/12-Eva Waits.mp3
+Oct 11 11:47 : update: added Tommy Emmanuel/08-Chet's Ramble.mp3
+Oct 11 11:47 : update: added Tommy Emmanuel/13-Fields of Gold.mp3
+Oct 11 11:47 : update: added Tommy Emmanuel/11-Ruby's Eyes.mp3
+Oct 11 11:47 : update: added Tommy Emmanuel/12-Beatles Medley - Live.mp3
+Oct 11 11:47 : update: added Tommy Emmanuel/01-Tall Fiddler (Live).mp3
+Oct 11 11:47 : update: added Tommy Emmanuel/01-Timberland.mp3
+Oct 11 11:47 : update: added Tommy Emmanuel/03-I Can't Stop Loving You.mp3
+Oct 11 11:47 : update: added Tommy Emmanuel/03-Windy & Warm (Live).mp3
+Oct 11 11:47 : update: added Tommy Emmanuel/01-Deep River Blues (feat. Jason Isbell).mp3
+Oct 11 11:47 : update: added Tommy Emmanuel/15-Somewhere Over The Rainbow.mp3
+Oct 11 11:47 : update: added Tommy Emmanuel/05-Morning Aire.mp3
+Oct 11 11:47 : update: added Tommy Emmanuel/04-Somewhere.mp3
+Oct 11 11:47 : update: added Tommy Emmanuel/06-(Sittin' On) The Dock Of The Bay (feat. J.D. Simo).mp3
+Oct 11 11:47 : update: added Tommy Emmanuel/01-Half Way Home.mp3
+Oct 11 11:47 : update: added Tommy Emmanuel/01-Cold, Cold Heart.mp3
+Oct 11 11:47 : update: added Tommy Emmanuel/11-Purple Haze.mp3
+Oct 11 11:47 : update: added Tommy Emmanuel/07-Borderline.mp3
+Oct 11 11:47 : update: added Tommy Emmanuel/05-Nine Pound Hammer - Live.mp3
+Oct 11 11:47 : update: added Tommy Emmanuel/04-Deep River Blues - Doc's Guitar - Blue Smoke - Cannonball Rag (Live).mp3
+Oct 11 11:47 : update: added Tommy Emmanuel/05-Hope Street.mp3
+Oct 11 11:47 : update: added Tommy Emmanuel/09-Traveling Clothes.mp3
+Oct 11 11:47 : update: added Tommy Emmanuel/07-Blood Brother (Live).mp3
+Oct 11 11:47 : update: added Tommy Emmanuel/12-Moon River - Instrumental.mp3
+Oct 11 11:47 : update: added Tommy Emmanuel/01-Drivetime.mp3
+Oct 11 11:47 : update: added Tommy Emmanuel/08-You Don't Want To Get You One Of Those (feat. Mark Knopfler).mp3
+Oct 11 11:47 : update: added Tommy Emmanuel/13-Mombasa - Live.mp3
+Oct 11 11:47 : update: added Tommy Emmanuel/06-Angelina.mp3
+Oct 11 11:47 : update: added Tommy Emmanuel/12-Waltzing Matilda.mp3
+Oct 11 11:47 : update: added Tommy Emmanuel/02-How Deep Is Your Love.mp3
+Oct 11 11:47 : update: added Tommy Emmanuel/01-Endless Road.mp3
+Oct 11 11:47 : update: added Tommy Emmanuel/11-Guitar Boogie (Live).mp3
+Oct 11 11:47 : update: added Tommy Emmanuel/11-He Ain't Heavy, He's My Brother.mp3
+Oct 11 11:47 : update: added Tom Petty/15-Mary Jane's Last Dance.mp3
+Oct 11 11:47 : update: added Tom Petty/01-For Real.mp3
+Oct 11 11:47 : update: added Tom Petty/01-Learning To Fly.mp3
+Oct 11 11:47 : update: added Tom Petty/02-Breakdown.mp3
+Oct 11 11:47 : update: added Tom Petty/02-I Won't Back Down.mp3
+Oct 11 11:47 : update: added Tom Petty/07-Even The Losers.mp3
+Oct 11 11:47 : update: added Tom Petty/06-Don't Do Me Like That.mp3
+Oct 11 11:47 : update: added Tom Petty/03-Time To Move On.mp3
+Oct 11 11:47 : update: added Tom Petty/05-Refugee.mp3
+Oct 11 11:47 : update: added Tom Petty/02-The Best Of Everything - Alternate Version - Extra Verse.mp3
+Oct 11 11:47 : update: added Tom Petty/04-You Wreck Me.mp3
+Oct 11 11:47 : update: added Tom Petty/02-You Don't Know How It Feels.mp3
+Oct 11 11:47 : update: added Tom Petty/03-Listen To Her Heart.mp3
+Oct 11 11:47 : update: added Tom Petty/01-You and Me - Clubhouse Version, 2007.mp3
+Oct 11 11:47 : update: added Tom Petty/01-Free Fallin'.mp3
+Oct 11 11:47 : update: added Tom Petty/11-Runnin' Down A Dream.mp3
+Oct 11 11:47 : update: added Tom Petty/01-Wildflowers.mp3
+Oct 11 11:47 : update: added Tom Petty/04-I Need To Know.mp3
+Oct 11 11:47 : update: added Tom Petty/05-Anything That's Rock 'n' Roll.mp3
+Oct 11 11:47 : update: added Tom Petty/10-American Girl.mp3
+Oct 11 11:47 : update: added Tom Petty/01-Gainesville - Outtake, 1998.mp3
+Oct 11 11:47 : update: added ACDC/DC - Boogie Man.mp3
+Oct 11 11:47 : update: added ACDC/DC - Burnin' Alive.mp3
+Oct 11 11:47 : update: added ACDC/DC - Cover You in Oil.mp3
+Oct 11 11:47 : update: added ACDC/DC - Givin the Dog a Bone.mp3
+Oct 11 11:47 : update: added ACDC/DC - Hail Caesar.mp3
+Oct 11 11:47 : update: added ACDC/DC - Have a Drink on Me.mp3
+Oct 11 11:47 : update: added ACDC/DC - Hells Bells.mp3
+Oct 11 11:47 : update: added ACDC/DC - Let Me Put My Love Into You.mp3
+Oct 11 11:47 : update: added ACDC/DC - Love Bomb.mp3
+Oct 11 11:47 : update: added ACDC/DC - Shake a Leg.mp3
+Oct 11 11:47 : update: added ACDC/DC - Shoot to Thrill.mp3
+Oct 11 11:47 : update: added ACDC/DC - The Furor.mp3
+Oct 11 11:47 : update: added ACDC/DC - The Honey Roll.mp3
+Oct 11 11:48 : exception: Bad playlist name
+Oct 11 11:50 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 11 11:52 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 11 11:54 : player: played "ACDC/DC - Shoot to Thrill.mp3"
+Oct 11 13:15 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 11 13:58 : player: played "ACDC/DC - Shoot to Thrill.mp3"
+Oct 11 13:59 : exception: Failed to decode /home/amanre/Music/ACDC/DC - Shoot to Thrill.mp3; Failed to open '/home/amanre/Music/ACDC/DC - Shoot to Thrill.mp3': No such file or directory
+Oct 11 13:59 : player: played "ACDC/DC - Shoot to Thrill.mp3"
+Oct 11 13:59 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 11 17:57 : exception: Failed to decode /home/amanre/Music/ACDC/DC - Hells Bells.mp3; Failed to open '/home/amanre/Music/ACDC/DC - Hells Bells.mp3': No such file or directory
+Oct 11 17:57 : player: played "ACDC/DC - Hells Bells.mp3"
+Oct 11 17:57 : exception: Failed to decode /home/amanre/Music/ACDC/DC - Shoot to Thrill.mp3; Failed to open '/home/amanre/Music/ACDC/DC - Shoot to Thrill.mp3': No such file or directory
+Oct 11 17:57 : player: played "ACDC/DC - Shoot to Thrill.mp3"
+Oct 11 17:57 : exception: Failed to decode /home/amanre/Music/ACDC/DC - Givin the Dog a Bone.mp3; Failed to open '/home/amanre/Music/ACDC/DC - Givin the Dog a Bone.mp3': No such file or directory
+Oct 11 17:57 : player: played "ACDC/DC - Givin the Dog a Bone.mp3"
+Oct 11 17:57 : exception: Failed to decode /home/amanre/Music/ACDC/DC - Let Me Put My Love Into You.mp3; Failed to open '/home/amanre/Music/ACDC/DC - Let Me Put My Love Into You.mp3': No such file or directory
+Oct 11 17:57 : player: played "ACDC/DC - Let Me Put My Love Into You.mp3"
+Oct 11 17:57 : exception: Failed to decode /home/amanre/Music/ACDC/DC - Have a Drink on Me.mp3; Failed to open '/home/amanre/Music/ACDC/DC - Have a Drink on Me.mp3': No such file or directory
+Oct 11 17:57 : player: played "ACDC/DC - Have a Drink on Me.mp3"
+Oct 11 17:57 : exception: Failed to decode /home/amanre/Music/ACDC/DC - Shake a Leg.mp3; Failed to open '/home/amanre/Music/ACDC/DC - Shake a Leg.mp3': No such file or directory
+Oct 11 17:57 : player: played "ACDC/DC - Shake a Leg.mp3"
+Oct 11 17:57 : exception: Failed to decode /home/amanre/Music/ACDC/DC - Cover You in Oil.mp3; Failed to open '/home/amanre/Music/ACDC/DC - Cover You in Oil.mp3': No such file or directory
+Oct 11 17:57 : player: played "ACDC/DC - Cover You in Oil.mp3"
+Oct 11 17:57 : exception: Failed to decode /home/amanre/Music/ACDC/DC - The Furor.mp3; Failed to open '/home/amanre/Music/ACDC/DC - The Furor.mp3': No such file or directory
+Oct 11 17:57 : player: played "ACDC/DC - The Furor.mp3"
+Oct 11 17:57 : exception: Failed to decode /home/amanre/Music/ACDC/DC - Boogie Man.mp3; Failed to open '/home/amanre/Music/ACDC/DC - Boogie Man.mp3': No such file or directory
+Oct 11 17:57 : player: played "ACDC/DC - Boogie Man.mp3"
+Oct 11 17:57 : exception: Failed to decode /home/amanre/Music/ACDC/DC - The Honey Roll.mp3; Failed to open '/home/amanre/Music/ACDC/DC - The Honey Roll.mp3': No such file or directory
+Oct 11 17:57 : player: played "ACDC/DC - The Honey Roll.mp3"
+Oct 11 17:57 : exception: Failed to decode /home/amanre/Music/ACDC/DC - Burnin' Alive.mp3; Failed to open '/home/amanre/Music/ACDC/DC - Burnin' Alive.mp3': No such file or directory
+Oct 11 17:57 : player: played "ACDC/DC - Burnin' Alive.mp3"
+Oct 11 17:57 : exception: Failed to decode /home/amanre/Music/ACDC/DC - Hail Caesar.mp3; Failed to open '/home/amanre/Music/ACDC/DC - Hail Caesar.mp3': No such file or directory
+Oct 11 17:57 : player: played "ACDC/DC - Hail Caesar.mp3"
+Oct 11 17:57 : exception: Failed to decode /home/amanre/Music/ACDC/DC - Love Bomb.mp3; Failed to open '/home/amanre/Music/ACDC/DC - Love Bomb.mp3': No such file or directory
+Oct 11 17:57 : player: played "ACDC/DC - Love Bomb.mp3"
+Oct 11 17:58 : player: played "Pink Floyed/02-Dogs - 2011 Remastered Version (1).mp3"
+Oct 11 17:58 : update: removing ACDC/DC - Givin the Dog a Bone.mp3
+Oct 11 17:58 : update: removing ACDC/DC - Shoot to Thrill.mp3
+Oct 11 17:58 : update: removing ACDC/DC - Hells Bells.mp3
+Oct 11 17:58 : update: removing ACDC/DC - Love Bomb.mp3
+Oct 11 17:58 : update: removing ACDC/DC - Hail Caesar.mp3
+Oct 11 17:58 : update: removing ACDC/DC - Burnin' Alive.mp3
+Oct 11 17:58 : update: removing ACDC/DC - The Honey Roll.mp3
+Oct 11 17:58 : update: removing ACDC/DC - Boogie Man.mp3
+Oct 11 17:58 : update: removing ACDC/DC - The Furor.mp3
+Oct 11 17:58 : update: removing ACDC/DC - Cover You in Oil.mp3
+Oct 11 17:58 : update: removing ACDC/DC - Shake a Leg.mp3
+Oct 11 17:58 : update: removing ACDC/DC - Have a Drink on Me.mp3
+Oct 11 17:58 : update: removing ACDC/DC - Let Me Put My Love Into You.mp3
+Oct 11 17:58 : update: added ACDC-BlackIce/10 - AC_DC - Stormy May Day.mp3
+Oct 11 17:58 : update: added ACDC-BlackIce/05 - AC_DC - War Machine.mp3
+Oct 11 17:58 : update: added ACDC-BlackIce/07 - AC_DC - Spoilin' for a Fight.mp3
+Oct 11 17:58 : update: added ACDC-BlackIce/04 - AC_DC - Anything Goes.mp3
+Oct 11 17:58 : update: added ACDC-BlackIce/08 - AC_DC - Wheels.mp3
+Oct 11 17:58 : update: added ACDC-BlackIce/02 - AC_DC - Skies on Fire.mp3
+Oct 11 17:58 : update: added ACDC-BlackIce/11 - AC_DC - She Likes Rock N Roll.mp3
+Oct 11 17:58 : update: added ACDC-BlackIce/09 - AC_DC - Decibel.mp3
+Oct 11 17:58 : update: added ACDC-BlackIce/03 - AC_DC - Big Jack.mp3
+Oct 11 17:58 : update: added ACDC-BlackIce/05 - AC_DC - Let Me Put My Love Into You.mp3
+Oct 11 17:58 : update: added ACDC-BlackIce/06 - AC_DC - Smash N Grab.mp3
+Oct 11 17:58 : update: added ACDC-BlackIce/01 - AC_DC - Rock N Roll Train.mp3
+Oct 11 17:58 : update: added ACDC-BlackIce/14 - AC_DC - Rocking All the Way.mp3
+Oct 11 17:58 : update: added ACDC-BlackIce/15 - AC_DC - Black Ice.mp3
+Oct 11 17:58 : update: added ACDC-BlackIce/12 - AC_DC - Money Made.mp3
+Oct 11 17:58 : update: added ACDC-BlackIce/13 - AC_DC - Rock N Roll Dream.mp3
+Oct 11 18:04 : player: played "ACDC-BlackIce/01 - AC_DC - Rock N Roll Train.mp3"
+Oct 11 18:13 : player: played "ACDC-BlackIce/05 - AC_DC - Let Me Put My Love Into You.mp3"
+Oct 11 20:49 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 11 20:53 : update: added ACDC-1/03 - AC_DC - Big Balls.mp3
+Oct 11 20:53 : update: added ACDC-1/02 - AC_DC - Love at First Feel.mp3
+Oct 11 20:53 : update: added ACDC-1/01 - AC_DC - Dirty Deeds Done Dirt Cheap.mp3
+Oct 11 20:53 : update: added ACDC-1/01 - AC_DC - Heatseeker.mp3
+Oct 11 20:53 : update: added ACDC-1/03 - AC_DC - Meanstreak.mp3
+Oct 11 20:53 : update: added ACDC-1/02 - AC_DC - That's the Way I Wanna Rock 'N' Roll.mp3
+Oct 11 20:53 : update: added ACDC-1/03 - AC_DC - The Furor.mp3
+Oct 11 20:53 : update: added ACDC-1/04 - AC_DC - Boogie Man.mp3
+Oct 11 20:53 : update: added ACDC-1/01 - AC_DC - Hard as a Rock.mp3
+Oct 11 20:53 : update: added ACDC-1/02 - AC_DC - Cover You in Oil.mp3
+Oct 11 20:53 : update: added ACDC-1/01 - AC_DC - Hells Bells.mp3
+Oct 11 20:53 : update: added ACDC-1/02 - AC_DC - Shoot to Thrill.mp3
+Oct 11 20:53 : update: added ACDC-1/04 - AC_DC - Givin the Dog a Bone.mp3
+Oct 11 20:53 : update: added ACDC-1/04 - AC_DC - Rocker.mp3
+Oct 11 20:53 : update: added ACDC-1/04 - AC_DC - Go Zone.mp3
+Oct 11 20:53 : update: added ACDC-1/06 - AC_DC - Back In Black.mp3
+Oct 11 20:53 : update: added ACDC-1/05 - AC_DC - Kissin' Dynamite.mp3
+Oct 11 20:53 : update: added ACDC-1/05 - AC_DC - Let Me Put My Love Into You.mp3
+Oct 11 20:53 : update: added ACDC-1/06 - AC_DC - Nick of Time.mp3
+Oct 11 20:53 : update: added ACDC-1/07 - AC_DC - You Shook Me All Night Long.mp3
+Oct 11 20:53 : update: added ACDC-1/08 - AC_DC - Love Bomb.mp3
+Oct 11 20:53 : update: added ACDC-1/06 - AC_DC - Burnin' Alive.mp3
+Oct 11 20:53 : update: added ACDC-1/07 - AC_DC - Some Sin for Nuthin'.mp3
+Oct 11 20:53 : update: added ACDC-1/05 - AC_DC - The Honey Roll.mp3
+Oct 11 20:53 : update: added ACDC-1/08 - AC_DC - Have a Drink on Me.mp3
+Oct 11 20:53 : update: added ACDC-1/07 - AC_DC - Hail Caesar.mp3
+Oct 11 20:53 : update: added ACDC-1/09 - AC_DC - Caught with Your Pants Down.mp3
+Oct 11 20:53 : update: added ACDC-1/09 - AC_DC - Shake a Leg.mp3
+Oct 11 20:53 : update: added ACDC-1/08 - AC_DC - Ruff Stuff.mp3
+Oct 11 20:53 : update: added ACDC-1/09 - AC_DC - Two's Up.mp3
+Oct 11 20:53 : update: added ACDC-1/10 - AC_DC - This Means War.mp3
+Oct 11 20:53 : update: added ACDC-1/11 - AC_DC - Ballbreaker.mp3
+Oct 11 20:53 : update: added ACDC-1/10 - AC_DC - Whiskey on the Rocks.mp3
+Oct 11 21:57 : player: played "ACDC-1/01 - AC_DC - Hells Bells.mp3"
+Oct 11 21:58 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 11 22:10 : player: played "ACDC-1/01 - AC_DC - Hells Bells.mp3"
+Oct 11 22:11 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 11 22:19 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 12 01:27 : player: played "ACDC-1/01 - AC_DC - Hells Bells.mp3"
+Oct 12 01:32 : player: played "ACDC-1/02 - AC_DC - Shoot to Thrill.mp3"
+Oct 12 01:35 : player: played "ACDC-1/04 - AC_DC - Givin the Dog a Bone.mp3"
+Oct 12 01:40 : player: played "ACDC-1/05 - AC_DC - Let Me Put My Love Into You.mp3"
+Oct 12 01:44 : player: played "ACDC-1/06 - AC_DC - Back In Black.mp3"
+Oct 12 01:54 : player: played "ACDC-1/07 - AC_DC - You Shook Me All Night Long.mp3"
+Oct 12 01:58 : player: played "ACDC-1/08 - AC_DC - Have a Drink on Me.mp3"
+Oct 12 02:02 : player: played "ACDC-1/09 - AC_DC - Shake a Leg.mp3"
+Oct 12 02:06 : player: played "ACDC-1/01 - AC_DC - Hard as a Rock.mp3"
+Oct 12 02:11 : player: played "ACDC-1/02 - AC_DC - Cover You in Oil.mp3"
+Oct 12 14:11 : player: played "ACDC-1/03 - AC_DC - The Furor.mp3"
+Oct 12 14:15 : player: played "ACDC-1/04 - AC_DC - Boogie Man.mp3"
+Oct 12 17:25 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 12 17:34 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 12 18:12 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 12 18:32 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 12 19:16 : player: played "ACDC-1/05 - AC_DC - The Honey Roll.mp3"
+Oct 12 19:17 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 12 21:09 : update: added Mighty Oaks/02 - Mighty Oaks - Seven Days.mp3
+Oct 12 21:09 : update: added Mighty Oaks/03 - Mighty Oaks - Back To You.mp3
+Oct 12 21:09 : update: added Mighty Oaks/09 - Mighty Oaks - Captain's Hill.mp3
+Oct 12 21:09 : update: added Mighty Oaks/10 - Mighty Oaks - Courtyard In Berlin.mp3
+Oct 12 21:09 : update: added Mighty Oaks/01 - Mighty Oaks - Brother.mp3
+Oct 12 21:09 : update: added Mighty Oaks/04 - Mighty Oaks - When I Dream, I See.mp3
+Oct 12 21:09 : update: added Mighty Oaks/05 - Mighty Oaks - Just One Day.mp3
+Oct 12 21:09 : update: added Mighty Oaks/06 - Mighty Oaks - Shells.mp3
+Oct 12 21:09 : update: added Mighty Oaks/07 - Mighty Oaks - You Saved My Soul.mp3
+Oct 12 21:09 : update: added Mighty Oaks/08 - Mighty Oaks - The Golden Road.mp3
+Oct 12 21:09 : update: added Mighty Oaks/12 - Mighty Oaks - Howl.mp3
+Oct 12 21:09 : update: added Mighty Oaks/11 - Mighty Oaks - Horse.mp3
+Oct 12 21:09 : update: added Yes/05 - Yes - Cinema.mp3
+Oct 12 21:09 : update: added Yes/06 - Yes - Leave It.mp3
+Oct 12 21:09 : update: added Yes/07 - Yes - Our Song.mp3
+Oct 12 21:09 : update: added Yes/08 - Yes - City of Love.mp3
+Oct 12 21:09 : update: added Yes/03 - Yes - It Can Happen.mp3
+Oct 12 21:09 : update: added Yes/01 - Yes - Owner of a Lonely Heart.mp3
+Oct 12 21:09 : update: added Yes/10 - Yes - Leave It - Single Remix.mp3
+Oct 12 21:09 : update: added Yes/02 - Yes - Hold On.mp3
+Oct 12 21:09 : update: added Yes/12 - Yes - It Can Happen - Cinema Version.mp3
+Oct 12 21:09 : update: added Yes/04 - Yes - Changes.mp3
+Oct 12 21:09 : update: added Yes/15 - Yes - Leave It - A Capella.mp3
+Oct 12 21:09 : update: added Yes/11 - Yes - Make It Easy.mp3
+Oct 12 21:09 : update: added Yes/13 - Yes - It's Over - Previously Unissued.mp3
+Oct 12 21:09 : update: added Yes/09 - Yes - Hearts.mp3
+Oct 12 21:09 : update: added Yes/14 - Yes - Owner of a Lonely Heart - Extended Remix.mp3
+Oct 12 21:09 : update: added Staind/01 - Staind - Eyes Wide Open.mp3
+Oct 12 21:09 : update: added Staind/01 - Staind - Run Away.mp3
+Oct 12 21:09 : update: added Staind/01 - Staind - Price to Play.mp3
+Oct 12 21:09 : update: added Staind/02 - Staind - Pressure.mp3
+Oct 12 21:09 : update: added Staind/02 - Staind - How About You.mp3
+Oct 12 21:09 : update: added Staind/01 - Staind - Open Your Eyes.mp3
+Oct 12 21:09 : update: added Staind/03 - Staind - So Far Away.mp3
+Oct 12 21:09 : update: added Staind/03 - Staind - Paper Jesus.mp3
+Oct 12 21:09 : update: added Staind/02 - Staind - Right Here.mp3
+Oct 12 21:09 : update: added Staind/02 - Staind - Not Again.mp3
+Oct 12 21:09 : update: added Staind/03 - Staind - Fade.mp3
+Oct 12 21:09 : update: added Staind/03 - Staind - Failing.mp3
+Oct 12 21:09 : update: added Staind/06 - Staind - Can't Believe.mp3
+Oct 12 21:09 : update: added Staind/04 - Staind - Wannabe.mp3
+Oct 12 21:09 : update: added Staind/04 - Staind - Yesterday.mp3
+Oct 12 21:09 : update: added Staind/05 - Staind - Change.mp3
+Oct 12 21:09 : update: added Staind/04 - Staind - It's Been Awhile.mp3
+Oct 12 21:09 : update: added Staind/04 - Staind - Schizophrenic Conversations.mp3
+Oct 12 21:09 : update: added Staind/05 - Staind - Falling.mp3
+Oct 12 21:09 : update: added Staind/06 - Staind - Cross to Bear.mp3
+Oct 12 21:09 : update: added Staind/05 - Staind - Throw It All Away.mp3
+Oct 12 21:09 : update: added Staind/06 - Staind - Take a Breath.mp3
+Oct 12 21:09 : update: added Staind/05 - Staind - Fray.mp3
+Oct 12 21:09 : update: added Staind/07 - Staind - Devil.mp3
+Oct 12 21:09 : update: added Staind/08 - Staind - Now.mp3
+Oct 12 21:09 : update: added Staind/07 - Staind - Epiphany.mp3
+Oct 12 21:09 : update: added Staind/07 - Staind - The Bottom.mp3
+Oct 12 21:09 : update: added Staind/08 - Staind - Suffer.mp3
+Oct 12 21:09 : update: added Staind/08 - Staind - Please.mp3
+Oct 12 21:09 : update: added Staind/09 - Staind - Everything Changes.mp3
+Oct 12 21:09 : update: added Staind/10 - Staind - For You.mp3
+Oct 12 21:09 : update: added Staind/09 - Staind - Paper Wings.mp3
+Oct 12 21:09 : update: added Staind/9 - Staind - Falling Down.mp3
+Oct 12 21:09 : update: added Staind/09 - Staind - Warm Safe Place.mp3
+Oct 12 21:09 : update: added Staind/10 - Staind - Take This.mp3
+Oct 12 21:09 : update: added Staind/11 - Staind - King of All Excuses.mp3
+Oct 12 21:09 : update: added Staind/13 - Staind - Take It.mp3
+Oct 12 21:09 : update: added Staind/12 - Staind - Reply.mp3
+Oct 12 21:09 : update: added Staind/10 - Staind - Something to Remind You.mp3
+Oct 12 21:09 : update: added Staind/12 - Staind - Waste.mp3
+Oct 12 21:09 : update: added Staind/11 - Staind - Outside.mp3
+Oct 12 21:09 : update: added Staind/8 - Staind - Layne.mp3
+Oct 12 21:09 : update: added Staind/7 - Staind - Fill Me Up.mp3
+Oct 12 21:29 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 12 21:45 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 12 21:57 : player: played "ACDC-1/02 - AC_DC - That's the Way I Wanna Rock 'N' Roll.mp3"
+Oct 12 22:01 : player: played "ACDC-1/03 - AC_DC - Meanstreak.mp3"
+Oct 12 22:09 : player: played "Mighty Oaks/01 - Mighty Oaks - Brother.mp3"
+Oct 12 22:12 : player: played "Mighty Oaks/02 - Mighty Oaks - Seven Days.mp3"
+Oct 12 22:15 : player: played "Mighty Oaks/04 - Mighty Oaks - When I Dream, I See.mp3"
+Oct 12 22:19 : player: played "Mighty Oaks/05 - Mighty Oaks - Just One Day.mp3"
+Oct 12 22:23 : player: played "Mighty Oaks/06 - Mighty Oaks - Shells.mp3"
+Oct 12 22:27 : player: played "Mighty Oaks/07 - Mighty Oaks - You Saved My Soul.mp3"
+Oct 12 22:30 : player: played "Mighty Oaks/09 - Mighty Oaks - Captain's Hill.mp3"
+Oct 12 22:34 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 12 22:36 : player: played "Mighty Oaks/09 - Mighty Oaks - Captain's Hill.mp3"
+Oct 12 22:39 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 13 00:37 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 13 00:48 : player: played "Staind/01 - Staind - Price to Play.mp3"
+Oct 13 00:52 : player: played "Staind/02 - Staind - How About You.mp3"
+Oct 13 00:56 : player: played "Staind/03 - Staind - So Far Away.mp3"
+Oct 13 01:00 : player: played "Staind/04 - Staind - Yesterday.mp3"
+Oct 13 01:05 : player: played "Staind/05 - Staind - Fray.mp3"
+Oct 13 01:09 : player: played "Staind/7 - Staind - Fill Me Up.mp3"
+Oct 13 01:35 : player: played "Staind/8 - Staind - Layne.mp3"
+Oct 13 01:36 : player: played "Staind/9 - Staind - Falling Down.mp3"
+Oct 13 01:41 : player: played "Staind/01 - Staind - Price to Play.mp3"
+Oct 13 01:45 : player: played "Staind/02 - Staind - How About You.mp3"
+Oct 13 01:49 : player: played "Staind/03 - Staind - So Far Away.mp3"
+Oct 13 01:53 : player: played "Staind/04 - Staind - Yesterday.mp3"
+Oct 13 01:58 : player: played "Staind/05 - Staind - Fray.mp3"
+Oct 13 02:02 : player: played "Staind/7 - Staind - Fill Me Up.mp3"
+Oct 13 14:16 : player: played "Staind/8 - Staind - Layne.mp3"
+Oct 13 14:16 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 13 14:38 : player: played "Staind/8 - Staind - Layne.mp3"
+Oct 13 14:39 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 13 14:58 : player: played "Staind/8 - Staind - Layne.mp3"
+Oct 13 14:58 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 13 23:31 : player: played "Staind/8 - Staind - Layne.mp3"
+Oct 13 23:32 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 14 02:21 : player: played "Staind/8 - Staind - Layne.mp3"
+Oct 14 02:22 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 14 02:23 : player: played "Staind/8 - Staind - Layne.mp3"
+Oct 14 02:24 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 14 02:24 : player: played "Staind/8 - Staind - Layne.mp3"
+Oct 14 13:21 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 14 14:14 : player: played "Staind/8 - Staind - Layne.mp3"
+Oct 14 14:15 : player: played "Staind/9 - Staind - Falling Down.mp3"
+Oct 14 17:38 : player: played "ACDC-1/01 - AC_DC - Hells Bells.mp3"
+Oct 14 17:43 : player: played "ACDC-1/02 - AC_DC - Shoot to Thrill.mp3"
+Oct 14 17:46 : player: played "ACDC-1/04 - AC_DC - Givin the Dog a Bone.mp3"
+Oct 14 17:51 : player: played "ACDC-1/05 - AC_DC - Let Me Put My Love Into You.mp3"
+Oct 14 17:55 : player: played "ACDC-1/06 - AC_DC - Back In Black.mp3"
+Oct 14 18:02 : player: played "Summerhits/01 - AC_DC - Hells Bells.mp3"
+Oct 14 18:07 : player: played "Summerhits/02 - AC_DC - Shoot to Thrill.mp3"
+Oct 14 18:11 : player: played "Summerhits/03 - AC_DC - What Do You Do for Money Honey.mp3"
+Oct 14 18:15 : player: played "Summerhits/02 - Klaus Doldinger's Passport - Inner City Blues.mp3"
+Oct 14 18:21 : player: played "Summerhits/06 - Red Hot Chili Peppers - Californication.mp3"
+Oct 14 18:25 : player: played "Summerhits/03 - Tracy Chapman - Freedom Now.mp3"
+Oct 14 18:30 : player: played "Summerhits/06 - Tracy Chapman - Subcity.mp3"
+Oct 14 18:33 : player: played "Summerhits/01 - Nickelback - Something in Your Mouth.mp3"
+Oct 14 20:21 : player: played "Summerhits/06 - Nickelback - Just to Get High.mp3"
+Oct 14 20:22 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 14 20:24 : player: played "Summerhits/06 - Nickelback - Just to Get High.mp3"
+Oct 14 20:25 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 14 20:32 : player: played "Summerhits/06 - Nickelback - Just to Get High.mp3"
+Oct 14 20:33 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 14 20:44 : player: played "Summerhits/06 - Nickelback - Just to Get High.mp3"
+Oct 14 20:45 : player: played "Summerhits/07 - Nickelback - Never Gonna Be Alone.mp3"
+Oct 14 20:46 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 14 20:49 : player: played "Summerhits/07 - Nickelback - Never Gonna Be Alone.mp3"
+Oct 14 20:53 : player: played "Summerhits/03 - Tommy Emmanuel - Determination.mp3"
+Oct 14 20:57 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 14 21:01 : player: played "Summerhits/04 - Gerry Rafferty - Night Owl.mp3"
+Oct 14 21:07 : player: played "Summerhits/01 - Nickelback - Feed the Machine.mp3"
+Oct 14 21:10 : player: played "Summerhits/03 - Nickelback - Song On Fire.mp3"
+Oct 14 21:14 : player: played "Summerhits/02 - AC_DC - This House Is on Fire.mp3"
+Oct 14 21:18 : player: played "Summerhits/05 - AC_DC - Landslide.mp3"
+Oct 14 21:23 : player: played "Summerhits/08 - Eric Clapton - Bad Love - 2015 Remaster.mp3"
+Oct 14 21:27 : player: played "Summerhits/01 - Tracy Chapman - Telling Stories - 2015 Remaster.mp3"
+Oct 14 21:32 : player: played "Summerhits/03 - Tracy Chapman - Change - 2015 Remaster.mp3"
+Oct 14 21:36 : player: played "Summerhits/02 - Saga - Cat Walk.mp3"
+Oct 14 21:42 : player: played "Summerhits/09 - Saga - The Pitchman.mp3"
+Oct 14 21:46 : player: played "Summerhits/02 - AC_DC - Highway to Hell.mp3"
+Oct 14 21:49 : player: played "Summerhits/02 - AC_DC - Girls Got Rhythm.mp3"
+Oct 14 21:55 : player: played "Summerhits/01 - AC_DC - Riff Raff - Live at the Apollo Theatre, Glasgow, Scotland - April 1978.mp3"
+Oct 14 21:57 : player: played "Summerhits/01 - Tommy Emmanuel - Only Elliot.mp3"
+Oct 14 22:03 : player: played "Summerhits/06 - John Lee Hooker - The Healer.mp3"
